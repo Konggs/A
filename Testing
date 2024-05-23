@@ -92,6 +92,7 @@ end
 
 function triggerbot()
     while _G.triggerbot == true do
+        task.wait()
 local Players = game:GetService("Players")
 local lp = Players.LocalPlayer or Players:GetPropertyChangedSignal("LocalPlayer"):Wait() and Players.LocalPlayer
 local mouse = lp:GetMouse()
