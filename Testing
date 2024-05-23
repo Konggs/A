@@ -92,7 +92,6 @@ end
 
 function triggerbot()
     while _G.triggerbot == true do
-        task.wait()
 local Players = game:GetService("Players")
 local lp = Players.LocalPlayer or Players:GetPropertyChangedSignal("LocalPlayer"):Wait() and Players.LocalPlayer
 local mouse = lp:GetMouse()
@@ -162,13 +161,9 @@ local Toggle = Tab:CreateToggle({
         slientaim()
     end,
  })
- local Toggle = Tab:CreateToggle({
+ local Button = Tab:CreateButton({
     Name = "TriggerBot Bam Nut G De Kich Hoat",
-    CurrentValue = false,
-    Flag = "Toggle1", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
-    Callback = function(Value)
-        _G.triggerbot = Value
-        triggerbot()
+    Callback = function()
+    triggerbot()
     end,
  })
-
