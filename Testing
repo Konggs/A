@@ -1,0 +1,146 @@
+getgenv().SecureMode = true
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+local Window = Rayfield:CreateWindow({
+    Name = "Aimbot",
+    LoadingTitle = "Dit Me May Thang Hacker",
+    LoadingSubtitle = "by Kon#GGs",
+    ConfigurationSaving = {
+       Enabled = true,
+       FolderName = nil, -- Create a custom folder for your hub/game
+       FileName = "Konggs"
+    },
+    Discord = {
+       Enabled = false,
+       Invite = "noinvitelink", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ABCD would be ABCD
+       RememberJoins = true -- Set this to false to make them join the discord every time they load it up
+    },
+    KeySystem = false, -- Set this to true to use our key system
+    KeySettings = {
+       Title = "Nhap Key di Thang lon",
+       Subtitle = "Key System",
+       Note = "Biet Dung Khong Vay",
+       FileName = "Key", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
+       SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
+       GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
+       Key = {"KonAndFriends"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+    }
+ })
+
+
+
+
+
+
+
+
+
+
+--Values
+_G.slientaim = true
+--Functions
+
+function slientaim()
+    while _G.slientaim == true do
+        toggle = Enum.KeyCode.G
+        bodyPart = "HumanoidRootPart"
+        on = false
+        on2 = false
+        game:GetService("UserInputService").InputBegan:Connect(
+            function(input)
+                if input.KeyCode == Enum.KeyCode.G then
+                    if on then
+                        on = false
+                    else
+                        on = true
+                    end
+                end
+            end
+        )
+        game:GetService("Players").LocalPlayer:GetMouse().Button2Down:Connect(
+            function()
+                on2 = true
+            end
+        )
+        game:GetService("Players").LocalPlayer:GetMouse().Button2Up:Connect(
+            function()
+                on2 = false
+            end
+        )
+        while wait() do
+            if on2 and on then
+                lowest = math.huge
+                for i, v in pairs(game:GetService("Players"):GetChildren()) do
+                    if
+                        (game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position -
+                            v.Character.HumanoidRootPart.Position).magnitude < lowest and
+                            v ~= game:GetService("Players").LocalPlayer
+                     then
+                        lowest =    
+                            (game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position -
+                            v.Character.HumanoidRootPart.Position).magnitude
+                        player = v
+                    end
+                end
+                workspace.CurrentCamera.CFrame =
+                    CFrame.new(workspace.CurrentCamera.CFrame.Position, player.Character[bodyPart].Position)
+            end
+        end
+    end
+end
+
+
+
+
+
+--Tabs
+local Tab = Window:CreateTab("Main", 4483362458) -- Title, Image
+local Section = Tab:CreateSection("Aimbot")
+
+
+
+
+
+
+--Toggles
+local Toggle = Tab:CreateToggle({
+    Name = "Aimbot Camera",
+    CurrentValue = false,
+    Flag = "Toggle1",
+    Callback = function(Value)
+        _G.slientaim = Value
+        slientaim()
+    end,
+ })
+ local Toggle = Tab:CreateToggle({
+    Name = "Hitbox",
+    CurrentValue = false,
+    Flag = "Toggle1", -- A flag is the identifier for the configuration file, make sure every element has a different flag if you're using configuration saving to ensure no overlaps
+    Callback = function(Value)
+        _G.hitbox = Value
+        while _G.hitbox == true do
+            if not _G.hitbox then 
+                break 
+            end
+        for i,v in next, game:GetService('Players'):GetPlayers() do
+            if v.Name ~= game:GetService('Players').LocalPlayer.Name then
+                    pcall(function()
+                        if _G.CharacterHP then
+                        else
+                            v.Character[_G.hitboxD].Size = Vector3.new(5, 5, 5)
+                            v.Character[_G.hitboxD].Transparency = 0
+                            v.Character[_G.hitboxD].Color = false
+                            v.Character[_G.hitboxD].Material = false
+                            v.Character[_G.hitboxD].CanCollide = false
+                            if _G.hitboxD == "Head" then
+                                v.Character[_G.hitboxD].Massless = true
+                            end
+                        end
+                    end)
+                end
+            end
+            task.wait()
+        end 
+        backHitBox()      
+    end,
+ })
+
