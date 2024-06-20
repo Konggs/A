@@ -639,7 +639,6 @@ spawn(function()
                             }
                         }
                         game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Skill"):InvokeServer(unpack(args))
-                        task.wait(0.1)
                     end
                 end
             end)
@@ -666,7 +665,6 @@ spawn(function()
                             }
                         }
                         game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Skill"):InvokeServer(unpack(args))
-                        task.wait(0.1)
                     end
                 end
             end)
@@ -964,14 +962,11 @@ Toggle:OnChanged(function(Value)
 spawn(function()
     local roger = workspace.NPCs:FindFirstChild("Donmingo Family")
     local hawkeye = workspace.NPCs:FindFirstChild("Hawk Eye")
-    local health = roger.Humanoid.Health == 0
-    local health1 = hawkeye.Humanoid.Health == 0
     local player = game.Players.LocalPlayer
     local statsFolder = game:GetService("ReplicatedStorage"):FindFirstChild("Stats" .. player.Name)
-    if _G.webhook and
-    roger or hawkeye
-    and health or health1 == 0 
-    then
+    if _G.webhook and roger or hawkeye then
+    
+    repeat wait() until not roger or not hawkeye and not getgenv().incooking
     pcall(function()
             local jsonValue = statsFolder.Inventory.Inventory.Value
             local decoded = game:GetService('HttpService'):JSONDecode(jsonValue)
