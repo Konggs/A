@@ -1,1 +1,2188 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _haqggsSQVpkT = a; end)); return(function(r,...)local l;local a;local g;local d;local p;local t;local e=24915;local n=0;local f={};while n<346 do n=n+1;while n<0x2d1 and e%0xbe6<0x5f3 do n=n+1 e=(e-613)%30112 local o=n+e if(e%0x104a)>0x825 then e=(e*0x21)%0x9aeb while n<0x1cc and e%0x1c24<0xe12 do n=n+1 e=(e*682)%20960 local a=n+e if(e%0xf78)>0x7bc then e=(e+0x3bf)%0x47c7 local e=38661 if not f[e]then f[e]=0x1 p={};end elseif e%2~=0 then e=(e+0x3af)%0x5cfa local e=16352 if not f[e]then f[e]=0x1 end else e=(e*0x1ca)%0x5847 n=n+1 local e=99221 if not f[e]then f[e]=0x1 d=string;end end end elseif e%2~=0 then e=(e-0x260)%0x98fe while n<0x16e and e%0x1810<0xc08 do n=n+1 e=(e+515)%26120 local a=n+e if(e%0x138c)>=0x9c6 then e=(e*0x119)%0xb59a local e=5516 if not f[e]then f[e]=0x1 end elseif e%2~=0 then e=(e+0x3cc)%0xa6be local e=89798 if not f[e]then f[e]=0x1 t="\4\8\116\111\110\117\109\98\101\114\84\108\68\115\80\70\111\77\0\6\115\116\114\105\110\103\4\99\104\97\114\65\73\103\75\100\120\66\120\0\6\115\116\114\105\110\103\3\115\117\98\89\90\102\97\116\122\120\81\0\6\115\116\114\105\110\103\4\98\121\116\101\109\70\120\101\103\114\77\111\0\5\116\97\98\108\101\6\99\111\110\99\97\116\67\105\115\101\99\119\109\100\0\5\116\97\98\108\101\6\105\110\115\101\114\116\112\77\100\112\67\89\67\115\5";end else e=(e-0x324)%0x6c5c n=n+1 local e=13816 if not f[e]then f[e]=0x1 g=tonumber;end end end else e=(e*0x1d7)%0xc310 n=n+1 while n<0xa9 and e%0x21dc<0x10ee do n=n+1 e=(e+459)%15245 local t=n+e if(e%0x2404)<=0x1202 then e=(e-0x298)%0x89bc local e=76596 if not f[e]then f[e]=0x1 a=getfenv and getfenv();end elseif e%2~=0 then e=(e*0x9b)%0x4334 local e=32268 if not f[e]then f[e]=0x1 a=(not a)and _ENV or a;end else e=(e+0x65)%0x9abd n=n+1 local e=8716 if not f[e]then f[e]=0x1 l=function(l)local e=0x01 local function f(n)e=e+n return l:sub(e-n,e-0x01)end while true do local n=f(0x01)if(n=="\5")then break end local e=d.byte(f(0x01))local e=f(e)if n=="\2"then e=p.TlDsPFoM(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then a[e]=function(e,n)return r(8,nil,r,n,e)end elseif n=="\4"then e=a[e]elseif n=="\0"then e=a[e][f(d.byte(f(0x01)))];end local n=f(0x08)p[n]=e end end end end end end end e=(e+1017)%22545 end l(t);local n={};for e=0x0,0xff do local f=p.AIgKdxBx(e);n[e]=f;n[f]=e;end local function o(e)return n[e];end local o=(function(t,l)local r,f=0x01,0x10 local n={{},{},{}}local a=-0x01 local e=0x01 local d=t while true do n[0x03][p.YZfatzxQ(l,e,(function()e=r+e return e-0x01 end)())]=(function()a=a+0x01 return a end)()if a==(0x0f)then a=""f=0x000 break end end local a=#l while e<a+0x01 do n[0x02][f]=p.YZfatzxQ(l,e,(function()e=r+e return e-0x01 end)())f=f+0x01 if f%0x02==0x00 then f=0x00 p.pMdpCYCs(n[0x01],(o((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+d)%0x100)));d=t+d;end end return p.Cisecwmd(n[0x01])end);l(o(51,"(z.IUBQPfg7K!)-u)."));l(o(191,"39w_S.br8ce,(AxZS988_br8,rxZ_.bZSAxxS1rc,A(Z9(br(rxcSS8beAceA(88,(Z,Sr88e<xZS88x,bF(.9cebbe,.rceAw98.Ze;,xwT_bcb,(9c_(_Sr,wcb,eexww8bwS9xe9Zr_e_xc_(.wcb(AP,.b8xxw(eKZ,cxxSwrr..ZA_br8((7.S(rAe,xb9Z89,wZ9xww,A_Kb.bcP(c9cSrc,(cm,.bc1eAZAb9rSAew.b(ewr8,(S(c(A,wAbceAeZ9.S888x,Wwb(,exx(c4e,xxc_wrxctZxS98bcZJ<9Sre..c.lxrcc,xxSZb9cxAx.bwwbr9S.6c.Ar9bSxcS(x9Ab_cx,79cSx8wxS,OZbebAS9bb9c,rAwAbreeA(9Zb8erx9w(S(88xe99bbSe8A_Arr,ex(wZr8erA.S.8wcbAZwcr,.ec(S88,(_Ec.Fc9eex,w_beArxx_8wcb(9eSAc.(Z}xb}rwA_wS.98w,_wcS__.rewS.ceAxw(/bwecxAwxrwew(Sw.b8c.A,_,rxSx"));local e=(-5617+(function()local d,n=0,1;(function(a,n,f,e)f(n(a,n,e and e,n),n(a,f,n,n),a(e and e,f,n,e),f(f,e,f,e))end)(function(f,a,l,e)if d>354 then return f end d=d+1 n=(n+513)%49785 if(n%1536)<768 then return a(e(e,e,f,a),e(a,l,l and a,e),e(e and e,a,f,a)and f(f,e,a and l,f),f(l,f,l,l))else return f end return l end,function(e,f,l,a)if d>355 then return f end d=d+1 n=(n*65)%42771 if(n%312)<156 then return e else return f(a(f and e,e,a,f),f(l,l,f and e,e and l),a(e,f,f and a,a),l(l,a and a,f,a))end return a(f(e,f and e,l,e)and e(e,a,l,a),l(a,l,e,e),e(l,a,f,l)and e(a,l,a,e and e),f(f,e,f,f))end,function(e,a,l,f)if d>473 then return l end d=d+1 n=(n-36)%12434 if(n%1142)>=571 then n=(n-926)%18167 return l else return e(f(f,a,e,e),e(e,a,a,a),e(f,f,l,f and f),l(e,a,f,a))end return e(e(e,e and a,l,f),f(e,l,e,e),e(e,f,l,e)and l(f,e,e,f),a(a,e,l,f))end,function(f,e,a,l)if d>290 then return e end d=d+1 n=(n-587)%13253 if(n%492)<=246 then n=(n*273)%18125 return f(a(a,l,e,a),e(f,f,a,f),l(e,e,f and a,f and l),f(e,a,e,e))else return l end return a end)return n;end)())local z=p.YFuqDLUf or p.iblKFgMa;local y=(getfenv)or(function()return _ENV end);local t=4;local a=2;local l=3;local fe=1;local function j(m,...)local h=o(e,"Wegm2{aV6QEfpRz;2QgEm;{2aQ66QmE6fRe6{aa6V{6fERQzpazV;2E2Rgpzzm;6{EQeEafEf2Rfzz;;l6mz{e{RVV6{EaQTpaRazflee;sV2;a2VVeEmp22{Qazp2xeeEg22aa3ge{Q6pERfERpz5Q2fMfzRmz6{e6e6zEmfRpfEpQ7fefEp;z22{VR62QpfaRjRzzydEgEmV2{;{e8e;m22QQ;Rp;{;;gemfRp;{Maefm%QmpQzmzQQQfapmR6zR{{6p6zf{f;R;zp;EEpp3R2KN;zemg66effRfQpRz9fRfeR2aVmg;V6EeE;ReR;ERzEe6g;2p{fVRg*mQ2E{;V2Ra;;epmaRRs{?Vepme66p2R{;QfE;mmQ2V{{gmamQ{fep{RmEezp4pmQR{;V;;e2gQ6QpgRafzMCof!g2m2;a^Vz6QER2;VcVQ6zEm;f2g{2aQVe6;EEEepeze;;L2f2R{Rz;m16aZE2EpfRz{zf;geQmmmz{zVfeEgz{;{6aR6g;;gbm{2a{zmE22{QfgfRRfzV36efzfm;2paE6a{{ERfeRzzb;6iQg{mgzmTVcRggmVQ6RYRVz;YQgmmemgaQafQgQpfppQRV6VpmfepaRf22aR6mEga2f;RVz;;RpRmQm6{;ge6aQRE;pQp;zgZ6Lzgg;m{;aa6a6;{pQzR{zE;z;6e;mg.22;2egm2g2RagVV;6eleVg;{maQVp66Egf&{z6a66QRfg#E2f{;ap62QVfEppR0;63geRmegf2zV66_QEE6{aVm6dQ{EE_gm{{{aEV{6QEPfRaV6aQeEaffef2EVmg;VVfgpeRVRR;EEgffppze;aVg6eEgE;{;Vz6QQzfmgE{aeg{g6fQ;aQEgfV;6QEfap2RQzz2V6eEoE{paRzz{QQEfpYV{RmEQpVeQV;{mazVRQgEVZV2G{2agVVQ6mE{za2VQ6zzEgEgz222gVeQEVpfRp;zgRRv6g6gzRz;EF6eRmgEzpez{zRN8ezmfRpz;x2g{gz2m{6Rf;ecveEmVm;{;a{6eQmERf;aQ6gQmE6fRgZ26aQVaga2a{la{VEREDQmgge26ap6e6fE{fmR2VaQgE<f{pEgVa6VR6zVEERReVg6zQpfepagz{eVfV;VEEQRgaz6QQ6ERpgg5{EVVV;Q;E{{{aRV;Q2EQxQm6ae;RefgVmp{eRQzV;QFEg62m2{agVfgm2{2RagVVRzCagmmt2R{Va;QeVzf6pVze;fQRf2pVRp;ea{agmk2R{Ea;62R;eVg;mRmfam62Qe2eamaf6?Q{hQgVm{{Ea{VEQfQ=EmfRzp;p;EffREz{;E+;VVQzfeR6zE;gz;gam)2a;aegg#m{2EE2zgzE^ie;gR2e;ge_epme2aEaR{;zzRg6mV2R{mV4e62g2g{Vapp;;z3pm&;{m{a26R2QEgfp66Re;ED6gEm6TaaVV;QmmE{ma2VQ6zzQg2gz2Q;Ve{gema2fEmzVz;.Ug6gzmg{2aEeRmz2V{pVepQ)Re{ga2z{2{666Q{EEp2Rg6gE2EppeRagzVgVE6ffmfQfpzm;aepga2e{{;peagamf{-fQzm=meNezpzg2;6xRggmV6VaeVa6fEef{pER;7ae;ezmm26{;Vg6VQppmRfRf;hw{2{g;22{QQ2QaQ6ERpgRRzpvgeamz2 {QEzV;Q2EQp2RmzQ;Regg6mp{eaaVpQoE{fEze,p;Q.zgm{a2RagVV6pzmfapfz?;awEgem2VQ{;Vm66QRRzpVz{;ee6gEmB2{{E6m62QQEzR{RfzRGmeV222e{aafEiQEEEpHR2zE;zmag62;{2aVV;QefVffRwz{;Eg{g2mE2zaaV66REgfVRzze;a&fg/m{2p{;V2QEQzfmp6Rz;gHQep{eae{fVe6{QEE;RmRQzzepe6mB2g{Vap66QaRfR<R{zR;;m{gQ22{mQ6QgQgEEfpRaza*{eC{{2a2;aVVQEdEmRepRzgse)pg{ma2faMV66Ep;zQpQzg;mm{eRmf2V6ppm6aQ;ftpaRE;;:22Q2a2m{paREpQVp6pezazRBJe6gE{2{2aRVzQmpmfRRazV;peegQmf6MVRVEQmE2zapz(g;6mRgzmV{KaeQf6fp<f{;Eza;2XRez{f26aaVgQVpgfepQRf E_{ezg;V2a6az6aQ6RfpgzYzp)egfgf22{{aEV;QfEQzzREz6_eeg{fmp6%aaEfE2E{fzp;zp;Qg{gma6{RagVf6pE6faRVzjg{gVe;m62Q66VmEzQRzgp6Rp;{ am;m#2z{EQ;fQQQfgpm;{zRgeeVgpQe{aVT6lQaEEf;R2;fvpemgzmR{;aVVpQeEappR*zE;Ee{g2mE2zVmQz6REafV;gze;f(fmC6m2EagV2EfQzfVp6RR;63VeRme2Q{fVg6{Epp{p2Rfzzgpe6gR2g6VVQ6eQ6EfzVR{;m;;eaaemz{{a6VRQgEVfpzm;p;fegg{ae2;a2VQEzfef6p;zg;6cp{gma{RaQV{6zQ;f;pQRz;meEggmg2p{p6p6aQffup{zaz;!aeQmm2m{EaREgQzEpp2RazRIO26gE{e{paQ6mQmEzfRRgzV;pgfgamz{:aEVEQeE2RQzpzm;p=Rg2mVVzaeVaQfEHffpER;;2xRezam{g{RV66VfRfepQRfg4ezeEm{22aVazEgQ6RRRzRV;g:e2agf22{{apfVQ2fdfzR2z6;RegmVVm{eapVfEaE{pep;z2ugOzgVm6{magVQ6pEeRepfz_;{3fe;m22QajVm66QRR{pVRp;e}ag2mw2{{Eza;m8feQma262za{Vpgp2p{aaf6nzeeQggm{{{2zV;6QfafVRQVpQEEaffR_g6agV,QaQEfeRVRR;;Egf;ppze;a{g6{EQQVpzzQ;ptmfmp;RR;gZV{;EBf2pQR{z6nzE;pVRQzz#m6VQfV2{Vaz6eQaEfg;2mzES;e2gQmzE6Rfzgx2;dgE2e{fa;am6EEpp{pRRp;mEmpepRzg;VV;6RQ;fypzzQzf16gepQza;mL6eRQ2fapvzERa;pggmQRE;QX2eQgz6ppaRR;V%fzzgamR2paze{gpm;{2aQRRREE6peRgzV;pVz6VE;f6a{Vz6;E2fQ2{22ae6eggm;2paeVaRfJ;g6mm{m{RV66pmm2R{RVg6Vypegg;2Ram1{g{g;22{Qf-;6*pgeme2{ez2{6{EgEz{{V2V;Q2EQJ{m6{p{CVVQQfgfEpQz&Q:EafEp;z22/OzgVm62RagRzzRFzefpfz2;{uEe;VQfVRmz866EmfgpVRp{RV{QgQ{f6pza;6fQQEzpmg6{QamQ:QefmpQaf6aQ{EEf;eVg;VMV2Q{Eg{gazVpQeEaFam{{zmRVz66Qz2zaQV66REggfmf26{RVV6{m{{V{;V26Qzeg6mE2;{VV{QBV2EVp6R{;V;fE;pRRQzzCm6{6zEQp{R{;{ofF;g{R{;{;;e2gQ6{f6Rpp);Ee(g6m{{6aAVzg{2>2;a2VQ;z<;eQ2a2VaQ pg2ma2fa+zmz;eaf2RQRz;m(6a{EVf2fRR;;{h2e2eV2Q{zV6aQ6;f{ppaR6fQVEppee6a!V26QQQER6afzzzQmEpfRRgzVa26a6RE9{gaaVEeeE2fQpz;{glhRggmV{6aeVa6fp%pppER;;2!Qezmp266mEp6VQpfepfRf;eq{mRg;26QRaz6mQ6fgpgR6zpl{{Egf2K{{zfV;Q{EQRu;fz6;Regmpmp{eaaQfE;E{fEp;z2;QgVgm{6{gagVV6pEefaRzzxTVeEe;m22QV6Vm66QRp2RpRp;eCamfm_2{{E6eQ;QQEzpmzgzR<geVgp2z{aaf6bQ{EEf;R2;fn6emg6mR{QaVVpQeEapfRlz{;Es;g2mQ2zV{6{6REgfVRgze;aKfmgm62E{;V2QRQzfmp6;R;VLVepme2a{f6g6{EppVp2Rfzz)fe6gR2g{VV{6eQaEfpgR{zp;;m2m?mz{ma6VRQgfgfp;e;f;feTg{mE2;aQVQQiRff6p;zg;6Mpgema2faVV{6EQ;fapQR;;meEm{mg2V{p6{6aQffbz{zgz;U2eQgz2maEaRQ2EpEppmRa<g<He{gEm;aRaQVzQmEEfRR2zVepeQgamf{*a{VEQeE2RQzgzm;6:RggmV{_aeVaRpE7f{pEze;2vfez{m{;{RVg6VQpfeRVRfexmmeEg;22{Qaz66Q6E;;ERVzz>ee6gf2x{{aE6aQ2EQfzR{z6;zegmQ{e{eaaVfE2E{fEp;j2FEszgmm62Rag6Q6pfmfQpfzg;{gee;m22Q{z6V66QRfgpQRp;mramf2{2{{Ea;62QQfOpm;6}atgeVgp2e{aa;6uQ{;ff;R2zQ.NemgEmRVgVzVpQeEaffRDDa;Eg;{gmQ2zamV66REVfVpzeQ;a+RgOm{2E{;V26QfQfmp6RR;2sVeRme{66mV(6{QEfRp2RQzz}m{RgR2g{VaR6eQ6Efpae2zE;;e2{fmz{2a6VzQgEfT=Reza;f2gg{mf2;a6fR6zEmf6pRzg;65pmm{z2fa8V{QvQ;f2pQz2mg?6eRmgVR{pVg6aQpfdpQezz;F2eQa22m{QaR6aRfEppeRae6NIeagE{eVpaQVzQmE;fRRgzVYg{<gamf{&Q;VEQAE2fEpzzVmp4RggmV6aaeVV6fE2;QpER;;2maezm226a;QE6VQpfeRmRf;O>{mEa422{Qaz6mQ6p;pgzQ;{.eeagf{a{{aEV;EafefzRmz6tReggVmpamaQVfQeE{pzp;z2;Qgzgam62zagV66pfmfaRRzm;{NRe;2f2Q{zVm66fQfgp6Rp;2jaeRmJa{66a;6{QQE;pm;{zR4gmLgp2g{aaR6UQ{EEf;RpzQ;zemg6mR{2aV6+R{EaffRn{m;Eeng22fVaamVR6RfafVppzeeae;g%mE2Ea2V2QfQzp{ReRR;QIVmmme2a{fVNQfQEf2p2z}zzy{e62R2z{VVe6eQfEfpgR{.ELRe2gzmz{6a66-QgpVpzRezf;fe{g{{E2;626m6zE6f6Rgzgoa#p2e2R2faaV{6zQ;fVpQ;zmE=6gmmg2R{pQe6affpQp{z1z;AEeQmR2m{6Vg6gQpEppaRa;e&Om{mEm;{QaQ6mQmp2fRz2;Q;peVga{e{+a{VEQ{fmfQRmzm2;kRgmmV{gaeVEp;Etf{pEma;27EezmV6p{RVg6VJEfepVRf9ggReEm222aRaz6mQ6pRzpRV;e=eefgf{g{{VpQeQ2fYfzzEz6;ReggVmR{eafVfQVE{fpp;b2Czlzg6m6{gagVQ6pEVpfpfz2;{aQe;m{2QamVm6pzefgpVRp{wcaepm12QQza;62QQeppmRQzRe2m;gp2a{aV;6ZQ{EER;z6zQ<memgRmRa2aV6zQVEapgR.;p;E#;g2mQ{6amVR6REQfVpzzeeayRg#mE2Ea2V26fQzRmzgRR;V0Vgeme2Q{fQ+6aQEf2p2Rzzzgme62R2{{VVe6eQfEfp;R{4Eeae2g;mz{Va66ZQgpVpeRezp;feag{{E2;62Vf6zEQf6RmzgBaDpge2f2fa{V{6;Q;fEpQ;z;2A6ggmg2p{p6R6aERfgp{R;z;eEeQgz2maE6m6gQfEpR;Razf_wefgEm;{2aQp2QmEQfRR2zV9w{{gamf{7EfVEQLE2pf;azm;64RgmmV2paeQaQQEdf{pER;;2g2ez2{{m{RVm6Vf2fepaRfeleeeEmj22{EazEgQ6f;RRRVzzMeeVgf2*{{6E6pQ2EffzR{z6e6eg2V{2{ea6VfQgE{Rgp;h2;p>zg{m62;ag6a6pfmRzpfzm;{g6e;m22QVzEQ66E1fgpERp;2sagR262{{za;6zQQEzpmR6k{.geEgp22{aa;6(f{fQf;RVzQreemmVmR{gaRVpQgEafzR_zV;Ee;2emQ2zamQX6REmfVR:;m;a*fg9ag2EaUV26Rzgfmp6RR;g*VeRme2a{pVO6{QEf0p2RQzziae6gR2g{6ap6eQaEfpmR{zE;;6mQVVF{mafVRQgEVfpzeza;feUg{mE2;a26ffeEmf6pRzm;V<pgema2paJV{6EErf2pQRz;mj6eRmg2f{pVe6aQffep{REz;2feQmg2m{6aRpVk{gegzRazRJte{gEEzpgaQ6{QmE6fReR2pV{{2Q{Q;f{aa6Q6;E2fQzzNE;6hzggmV2pa{VaQREmf{ppR;;a^Qezmma6VaVg6QQpfmpaR;;ng{gfg;2a{QVM6mQQERp6z6zphgeamQ23{aaE6eQ2ER}gRmz6;Rg:gVmR{eV6EmQ:EafERgz2;QOzgQ{22RamVVQ6EefVpfz/;{Nzamm22Q{zV;66QzfgpVzp;e_VefmU2{{Ea;QafpEzp2R6;^7geVgp2{QEaf6tQ{f6f;R{zQ;zgmg6mz{ga6VpQeEapR;mz{;fo;gVmQ2zamV66zEgfVppzg;a3fgBm{2E{;V26EQzfmp6RR;{AVepmef{pQEg6{QRE;p2RQzzeme6gR2g{6ap6eQafRzmR{zE;;e{gQmz{ma6VzQgEVfpRgza;feZg{mE2;a2Vf6zEmf6pRzf;VhpgeEQfVpQRE;6eme{mg2f;m1EeRmg2Vfff66VE?fjp{RE<e2zeQg;2m{EaR6gQVfpRfRazp%%eagEm;{2VfQ2QmEQfRRmzV;peegamp{+aaVEQ4E2fEpzzm;E+RggmV2RaeVa6fE&f{pER;");local n=0;p.CQinUjnv(function()p.ErtxPpCh()n=n+1 end)local function e(f,e)if e then return n end;n=f+n;end local f,n,o=r(0,r,e,h,p.mFxegrMo);local function d()local f,n=p.mFxegrMo(h,e(1,3),e(5,6)+2);e(2);return(n*256)+f;end;local c=true;local c=0 local function s()local a=n();local e=n();local l=1;local a=(f(e,1,20)*(2^32))+a;local n=f(e,21,31);local e=((-1)^f(e,32));if(n==0)then if(a==c)then return e*0;else n=1;l=0;end;elseif(n==2047)then return(a==0)and(e*(1/0))or(e*(0/0));end;return p.vfSMEfVT(e,n-1023)*(l+(a/(2^52)));end;local u=n;local function b(n)local f;if(not n)then n=u();if(n==0)then return'';end;end;f=p.YZfatzxQ(h,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+c),#f do e=e..p.YZfatzxQ(f,n,n)end return e;end;local c=#p.uztEmaTu(g('\49.\48'))~=1 local e=n;local function ne(...)return{...},p.EeuaQAvO('#',...)end local function _()local z={};local g={};local e={};local h={g,z,nil,e};local e=n()local r={}for a=1,e do local f=o();local e;if(f==2)then e=(o()~=#{});elseif(f==3)then local n=s();if c and p.zORHEOFY(p.uztEmaTu(n),'.(\48+)$')then n=p.aBbdPUtv(n);end e=n;elseif(f==0)then e=b();end;r[a]=e;end;h[3]=o();for z=1,n()do local e=o();if(f(e,1,1)==0)then local o=f(e,2,3);local p=f(e,4,6);local e={d(),d(),nil,nil};if(o==0)then e[l]=d();e[t]=d();elseif(o==#{1})then e[l]=n();elseif(o==m[2])then e[l]=n()-(2^16)elseif(o==m[3])then e[l]=n()-(2^16)e[t]=d();end;if(f(p,1,1)==1)then e[a]=r[e[a]]end if(f(p,2,2)==1)then e[l]=r[e[l]]end if(f(p,3,3)==1)then e[t]=r[e[t]]end g[z]=e;end end;for e=1,n()do z[e-(#{1})]=_();end;return h;end;local function j(f,e,n)local a=e;local a=n;return g(p.zORHEOFY(p.zORHEOFY(({p.CQinUjnv(f)})[2],e),n))end local function c(k,e,o)local function ee(...)local d,s,m,j,h,n,g,_,u,b,y,f;local e=0;while-1<e do if e>=3 then if e>=5 then if 5~=e then e=-2;else f=r(7);end else if e~=3 then b=p.EeuaQAvO('#',...)-1;y={};else _={};u={...};end end else if 1<=e then if-2~=e then repeat if e>1 then n=-41;g=-1;break;end;m=r(6,29,3,58,k);h=ne j=0;until true;else n=-41;g=-1;end else d=r(6,33,1,48,k);s=r(6,15,2,95,k);end end e=e+1;end;for e=0,b do if(e>=m)then _[e-m]=u[e+1];else f[e]=u[e+1];end;end;local e=b-m+1 local e;local r;local function m(...)while true do end end while true do if n<-40 then n=n+42 end e=d[n];r=e[fe];if 41>=r then if 21<=r then if 31>r then if r<26 then if r<=22 then if r~=17 then repeat if r<22 then f[e[a]]=(e[l]~=0);break;end;local r,p;for g=0,6 do if 3<=g then if g<=4 then if g==4 then r=e[a]f[r]=f[r](z(f,r+1,e[l]))n=n+1;e=d[n];else f(e[a],e[l]);n=n+1;e=d[n];end else if g~=3 then for o=33,79 do if g~=5 then f(e[a],e[l]);break;end;r=e[a];p=f[e[l]];f[r+1]=p;f[r]=p[e[t]];n=n+1;e=d[n];break;end;else f(e[a],e[l]);end end else if 1>g then o[e[l]]=f[e[a]];n=n+1;e=d[n];else if 0<g then repeat if g<2 then r=e[a];p=f[e[l]];f[r+1]=p;f[r]=p[e[t]];n=n+1;e=d[n];break;end;f(e[a],e[l]);n=n+1;e=d[n];until true;else r=e[a];p=f[e[l]];f[r+1]=p;f[r]=p[e[t]];n=n+1;e=d[n];end end end end until true;else f[e[a]]=(e[l]~=0);end else if 23<r then if 24<r then local e=e[a]local a,n=h(f[e](f[e+1]))g=n+e-1 local n=0;for e=e,g do n=n+1;f[e]=a[n];end;else local d=e[a];local t=e[t];local a=d+2 local d={f[d](f[d+1],f[a])};for e=1,t do f[a+e]=d[e];end;local d=d[1]if d then f[a]=d n=e[l];else n=n+1;end;end else f[e[a]]=f[e[l]][e[t]];end end else if r>=28 then if r<29 then if f[e[a]]then n=n+1;else n=e[l];end;else if 29<r then local o,p;for r=0,4 do if r<2 then if-1~=r then repeat if r~=0 then f[e[a]]={};n=n+1;e=d[n];break;end;o=e[a];p=f[e[l]];f[o+1]=p;f[o]=p[e[t]];n=n+1;e=d[n];until true;else f[e[a]]={};n=n+1;e=d[n];end else if 2<r then if r==4 then f[e[a]][e[l]]=e[t];else f[e[a]][e[l]]=e[t];n=n+1;e=d[n];end else f[e[a]][e[l]]=e[t];n=n+1;e=d[n];end end end else local e=e[a]f[e]=f[e](z(f,e+1,g))end end else if r~=27 then local n=e[a]f[n]=f[n](z(f,n+1,e[l]))else local n=e[a]f[n](z(f,n+1,e[l]))end end end else if 36<=r then if r>38 then if r>39 then if 40<r then f[e[a]][e[l]]=e[t];else f[e[a]]=o[e[l]];end else for r=0,4 do if r>1 then if 3<=r then if r~=3 then if(f[e[a]]==f[e[t]])then n=n+1;else n=e[l];end;else f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];end else f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];end else if 1>r then f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];else f[e[a]]=o[e[l]];n=n+1;e=d[n];end end end end else if r>36 then if 36~=r then for n=10,75 do if r~=38 then local e=e[a]local a,n=h(f[e](f[e+1]))g=n+e-1 local n=0;for e=e,g do n=n+1;f[e]=a[n];end;break;end;f[e[a]][e[l]]=f[e[t]];break;end;else f[e[a]][e[l]]=f[e[t]];end else do return end;end end else if 32<r then if 33<r then if r>=31 then repeat if 35>r then f[e[a]][e[l]]=f[e[t]];break;end;o[e[l]]=f[e[a]];until true;else o[e[l]]=f[e[a]];end else if not f[e[a]]then n=n+1;else n=e[l];end;end else if 29<=r then repeat if r>31 then f[e[a]]=f[e[l]]-f[e[t]];break;end;local z,p,m,h,g,r;for r=0,6 do if r<3 then if 0<r then if 2>r then f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];else o[e[l]]=f[e[a]];n=n+1;e=d[n];end else f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];end else if 5>r then if r>=-1 then repeat if r<4 then r=0;while r>-1 do if r<3 then if r<=0 then z=e;else if-2<r then repeat if 2>r then p=a;break;end;m=l;until true;else p=a;end end else if r<5 then if r~=-1 then for e=44,57 do if r<4 then h=z[m];break;end;g=z[p];break;end;else g=z[p];end else if r>4 then repeat if r<6 then f(g,h);break;end;r=-2;until true;else f(g,h);end end end r=r+1 end n=n+1;e=d[n];break;end;o[e[l]]=f[e[a]];n=n+1;e=d[n];until true;else r=0;while r>-1 do if r<3 then if r<=0 then z=e;else if-2<r then repeat if 2>r then p=a;break;end;m=l;until true;else p=a;end end else if r<5 then if r~=-1 then for e=44,57 do if r<4 then h=z[m];break;end;g=z[p];break;end;else g=z[p];end else if r>4 then repeat if r<6 then f(g,h);break;end;r=-2;until true;else f(g,h);end end end r=r+1 end n=n+1;e=d[n];end else if 4~=r then for t=26,78 do if r>5 then o[e[l]]=f[e[a]];break;end;f[e[a]]=(e[l]~=0);n=n+1;e=d[n];break;end;else o[e[l]]=f[e[a]];end end end end until true;else local p,g,m,h,z,r;for r=0,6 do if r<3 then if 0<r then if 2>r then f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];else o[e[l]]=f[e[a]];n=n+1;e=d[n];end else f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];end else if 5>r then if r>=-1 then repeat if r<4 then r=0;while r>-1 do if r<3 then if r<=0 then p=e;else if-2<r then repeat if 2>r then g=a;break;end;m=l;until true;else g=a;end end else if r<5 then if r~=-1 then for e=44,57 do if r<4 then h=p[m];break;end;z=p[g];break;end;else z=p[g];end else if r>4 then repeat if r<6 then f(z,h);break;end;r=-2;until true;else f(z,h);end end end r=r+1 end n=n+1;e=d[n];break;end;o[e[l]]=f[e[a]];n=n+1;e=d[n];until true;else r=0;while r>-1 do if r<3 then if r<=0 then p=e;else if-2<r then repeat if 2>r then g=a;break;end;m=l;until true;else g=a;end end else if r<5 then if r~=-1 then for e=44,57 do if r<4 then h=p[m];break;end;z=p[g];break;end;else z=p[g];end else if r>4 then repeat if r<6 then f(z,h);break;end;r=-2;until true;else f(z,h);end end end r=r+1 end n=n+1;e=d[n];end else if 4~=r then for t=26,78 do if r>5 then o[e[l]]=f[e[a]];break;end;f[e[a]]=(e[l]~=0);n=n+1;e=d[n];break;end;else o[e[l]]=f[e[a]];end end end end end end end end else if r>=10 then if r<15 then if 11<r then if 12<r then if 12<r then repeat if 14~=r then local r,g;for p=0,6 do if p>2 then if p>=5 then if 3<p then for o=31,54 do if p~=5 then r=e[a];g=f[e[l]];f[r+1]=g;f[r]=g[e[t]];break;end;f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];break;end;else r=e[a];g=f[e[l]];f[r+1]=g;f[r]=g[e[t]];end else if 0~=p then for t=35,67 do if p<4 then f(e[a],e[l]);n=n+1;e=d[n];break;end;r=e[a]f[r]=f[r](z(f,r+1,e[l]))n=n+1;e=d[n];break;end;else r=e[a]f[r]=f[r](z(f,r+1,e[l]))n=n+1;e=d[n];end end else if 0>=p then o[e[l]]=f[e[a]];n=n+1;e=d[n];else if-2<=p then repeat if p~=1 then r=e[a];g=f[e[l]];f[r+1]=g;f[r]=g[e[t]];n=n+1;e=d[n];break;end;f[e[a]]=o[e[l]];n=n+1;e=d[n];until true;else f[e[a]]=o[e[l]];n=n+1;e=d[n];end end end end break;end;for r=0,6 do if 3<=r then if 4<r then if 1<r then repeat if r~=6 then f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];break;end;f[e[a]]=f[e[l]][e[t]];until true;else f[e[a]]=f[e[l]][e[t]];end else if-1<r then for p=12,65 do if 3<r then f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];break;end;f[e[a]]=o[e[l]];n=n+1;e=d[n];break;end;else f[e[a]]=o[e[l]];n=n+1;e=d[n];end end else if 0<r then if 0<r then for p=20,91 do if r>1 then f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];break;end;f[e[a]]=o[e[l]];n=n+1;e=d[n];break;end;else f[e[a]]=o[e[l]];n=n+1;e=d[n];end else f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];end end end until true;else local r,p;for g=0,6 do if g>2 then if g>=5 then if 3<g then for o=31,54 do if g~=5 then r=e[a];p=f[e[l]];f[r+1]=p;f[r]=p[e[t]];break;end;f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];break;end;else r=e[a];p=f[e[l]];f[r+1]=p;f[r]=p[e[t]];end else if 0~=g then for t=35,67 do if g<4 then f(e[a],e[l]);n=n+1;e=d[n];break;end;r=e[a]f[r]=f[r](z(f,r+1,e[l]))n=n+1;e=d[n];break;end;else r=e[a]f[r]=f[r](z(f,r+1,e[l]))n=n+1;e=d[n];end end else if 0>=g then o[e[l]]=f[e[a]];n=n+1;e=d[n];else if-2<=g then repeat if g~=1 then r=e[a];p=f[e[l]];f[r+1]=p;f[r]=p[e[t]];n=n+1;e=d[n];break;end;f[e[a]]=o[e[l]];n=n+1;e=d[n];until true;else f[e[a]]=o[e[l]];n=n+1;e=d[n];end end end end end else if(f[e[a]]==f[e[t]])then n=n+1;else n=e[l];end;end else if 11==r then local n=e[a];local a=f[e[l]];f[n+1]=a;f[n]=a[e[t]];else f[e[a]]=f[e[l]][f[e[t]]];end end else if r<=17 then if 15>=r then for r=0,6 do if r<=2 then if r>0 then if 2==r then f[e[a]][e[l]]=e[t];n=n+1;e=d[n];else f[e[a]]={};n=n+1;e=d[n];end else f[e[a]][e[l]]=e[t];n=n+1;e=d[n];end else if r<=4 then if r~=1 then for o=23,69 do if 4~=r then f[e[a]][e[l]]=e[t];n=n+1;e=d[n];break;end;f[e[a]][e[l]]=e[t];n=n+1;e=d[n];break;end;else f[e[a]][e[l]]=e[t];n=n+1;e=d[n];end else if 4~=r then for o=20,94 do if r>5 then f[e[a]][e[l]]=e[t];break;end;f[e[a]][e[l]]=e[t];n=n+1;e=d[n];break;end;else f[e[a]][e[l]]=e[t];end end end end else if 16<r then local r,o;r=e[a]f[r]=f[r]()n=n+1;e=d[n];r=e[a];o=f[e[l]];f[r+1]=o;f[r]=o[e[t]];n=n+1;e=d[n];f[e[a]]={};n=n+1;e=d[n];f[e[a]][e[l]]=e[t];n=n+1;e=d[n];f[e[a]][e[l]]=e[t];n=n+1;e=d[n];f[e[a]][e[l]]=e[t];n=n+1;e=d[n];f[e[a]]={};else f[e[a]]=(e[l]~=0);end end else if r>=19 then if 19==r then local e=e[a]f[e]=f[e]()else local r,o;r=e[a];o=f[e[l]];f[r+1]=o;f[r]=o[e[t]];n=n+1;e=d[n];f(e[a],e[l]);n=n+1;e=d[n];r=e[a]f[r]=f[r](z(f,r+1,e[l]))n=n+1;e=d[n];f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];f[e[a]]=f[e[l]][e[t]];end else local e=e[a]f[e]=f[e](z(f,e+1,g))end end end else if r<=4 then if r<=1 then if 1>r then local d=e[a];local t=e[t];local a=d+2 local d={f[d](f[d+1],f[a])};for e=1,t do f[a+e]=d[e];end;local d=d[1]if d then f[a]=d n=e[l];else n=n+1;end;else do return end;end else if r<3 then local r,p;for g=0,6 do if g<3 then if 0>=g then r=e[a]f[r](z(f,r+1,e[l]))n=n+1;e=d[n];else if 1<g then r=e[a];p=f[e[l]];f[r+1]=p;f[r]=p[e[t]];n=n+1;e=d[n];else f[e[a]]=o[e[l]];n=n+1;e=d[n];end end else if g>=5 then if g~=2 then repeat if 6>g then f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];break;end;r=e[a];p=f[e[l]];f[r+1]=p;f[r]=p[e[t]];until true;else r=e[a];p=f[e[l]];f[r+1]=p;f[r]=p[e[t]];end else if g==4 then r=e[a]f[r]=f[r](z(f,r+1,e[l]))n=n+1;e=d[n];else f(e[a],e[l]);n=n+1;e=d[n];end end end end else if 0<r then for d=44,56 do if r<4 then if(f[e[a]]<f[e[t]])then n=e[l];else n=n+1;end;break;end;local a=e[a]local l={f[a](z(f,a+1,g))};local n=0;for e=a,e[t]do n=n+1;f[e]=l[n];end break;end;else local n=e[a]local l={f[n](z(f,n+1,g))};local a=0;for e=n,e[t]do a=a+1;f[e]=l[a];end end end end else if r<7 then if 4<r then for p=20,95 do if r~=6 then for r=0,5 do if 3<=r then if r<4 then f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];else if r~=3 then for t=46,61 do if r~=4 then o[e[l]]=f[e[a]];break;end;o[e[l]]=f[e[a]];n=n+1;e=d[n];break;end;else o[e[l]]=f[e[a]];n=n+1;e=d[n];end end else if r>=1 then if 1<r then f[e[a]]=f[e[l]]-f[e[t]];n=n+1;e=d[n];else f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];end else f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];end end end break;end;n=e[l];break;end;else n=e[l];end else if r>=8 then if 5~=r then repeat if 8~=r then f[e[a]]={};break;end;local n=e[a]local l={f[n](z(f,n+1,g))};local a=0;for e=n,e[t]do a=a+1;f[e]=l[a];end until true;else f[e[a]]={};end else local r,g;for p=0,6 do if 3<=p then if 5>p then if p>=2 then for t=32,92 do if p>3 then r=e[a]f[r]=f[r](z(f,r+1,e[l]))n=n+1;e=d[n];break;end;f(e[a],e[l]);n=n+1;e=d[n];break;end;else r=e[a]f[r]=f[r](z(f,r+1,e[l]))n=n+1;e=d[n];end else if p~=5 then r=e[a];g=f[e[l]];f[r+1]=g;f[r]=g[e[t]];else f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];end end else if 1<=p then if 2==p then r=e[a];g=f[e[l]];f[r+1]=g;f[r]=g[e[t]];n=n+1;e=d[n];else f[e[a]]=o[e[l]];n=n+1;e=d[n];end else r=e[a]f[r](z(f,r+1,e[l]))n=n+1;e=d[n];end end end end end end end end else if r<63 then if r<52 then if 47>r then if 43<r then if r>=45 then if 45<r then local n=e[a];local a=f[e[l]];f[n+1]=a;f[n]=a[e[t]];else if f[e[a]]then n=n+1;else n=e[l];end;end else f[e[a]]={};end else if r~=41 then for p=26,58 do if 42~=r then f[e[a]]=o[e[l]];break;end;local r,p;for o=0,4 do if o<=1 then if o~=1 then r=e[a];p=f[e[l]];f[r+1]=p;f[r]=p[e[t]];n=n+1;e=d[n];else f(e[a],e[l]);n=n+1;e=d[n];end else if 2>=o then r=e[a]f[r]=f[r](z(f,r+1,e[l]))n=n+1;e=d[n];else if 0<o then repeat if 3<o then if(f[e[a]]==f[e[t]])then n=n+1;else n=e[l];end;break;end;f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];until true;else f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];end end end end break;end;else local r,p;for o=0,4 do if o<=1 then if o~=1 then r=e[a];p=f[e[l]];f[r+1]=p;f[r]=p[e[t]];n=n+1;e=d[n];else f(e[a],e[l]);n=n+1;e=d[n];end else if 2>=o then r=e[a]f[r]=f[r](z(f,r+1,e[l]))n=n+1;e=d[n];else if 0<o then repeat if 3<o then if(f[e[a]]==f[e[t]])then n=n+1;else n=e[l];end;break;end;f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];until true;else f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];end end end end end end else if r<=48 then if 46<r then repeat if r~=47 then local n=e[a]local a,e=h(f[n](z(f,n+1,e[l])))g=e+n-1 local e=0;for n=n,g do e=e+1;f[n]=a[e];end;break;end;local n=e[a]f[n]=f[n](z(f,n+1,e[l]))until true;else local n=e[a]local a,e=h(f[n](z(f,n+1,e[l])))g=e+n-1 local e=0;for n=n,g do e=e+1;f[n]=a[e];end;end else if r<=49 then local r,g;for p=0,6 do if 2<p then if 5<=p then if p~=4 then for t=16,67 do if p>5 then r=e[a]f[r]=f[r](z(f,r+1,e[l]))break;end;f(e[a],e[l]);n=n+1;e=d[n];break;end;else f(e[a],e[l]);n=n+1;e=d[n];end else if p>=1 then for z=14,65 do if p>3 then r=e[a];g=f[e[l]];f[r+1]=g;f[r]=g[e[t]];n=n+1;e=d[n];break;end;f[e[a]]=o[e[l]];n=n+1;e=d[n];break;end;else r=e[a];g=f[e[l]];f[r+1]=g;f[r]=g[e[t]];n=n+1;e=d[n];end end else if 1<=p then if p~=-1 then repeat if p<2 then o[e[l]]=f[e[a]];n=n+1;e=d[n];break;end;f[e[a]]=o[e[l]];n=n+1;e=d[n];until true;else o[e[l]]=f[e[a]];n=n+1;e=d[n];end else f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];end end end else if r==51 then local n=e[a];local a=f[n];for e=n+1,e[l]do p.pMdpCYCs(a,f[e])end;else f[e[a]]=f[e[l]][f[e[t]]];end end end end else if 57>r then if r<=53 then if r~=49 then repeat if 53>r then f[e[a]]();break;end;f[e[a]][e[l]]=e[t];until true;else f[e[a]]();end else if r<=54 then local p;for r=0,6 do if 2<r then if 5<=r then if r>5 then n=e[l];else f[e[a]][e[l]]=f[e[t]];n=n+1;e=d[n];end else if r~=-1 then for o=37,87 do if 4>r then f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];break;end;p=e[a]f[p]=f[p](z(f,p+1,e[l]))n=n+1;e=d[n];break;end;else f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];end end else if r<1 then f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];else if r>1 then f[e[a]]=f[e[l]][f[e[t]]];n=n+1;e=d[n];else f[e[a]]=o[e[l]];n=n+1;e=d[n];end end end end else if 54~=r then repeat if r>55 then f[e[a]]=c(s[e[l]],nil,o);break;end;local r;f[e[a]][e[l]]=f[e[t]];n=n+1;e=d[n];r=e[a]f[r]=f[r](z(f,r+1,e[l]))n=n+1;e=d[n];do return end;until true;else f[e[a]]=c(s[e[l]],nil,o);end end end else if r>=60 then if 61>r then local o,p;for r=0,6 do if 3<=r then if 5<=r then if r~=2 then repeat if 5<r then f[e[a]]=f[e[l]][e[t]];break;end;f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];until true;else f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];end else if 1<r then repeat if r<4 then f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];break;end;f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];until true;else f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];end end else if r<1 then o=e[a];p=f[e[l]];f[o+1]=p;f[o]=p[e[t]];n=n+1;e=d[n];else if r>=-2 then repeat if r~=2 then f(e[a],e[l]);n=n+1;e=d[n];break;end;o=e[a]f[o]=f[o](z(f,o+1,e[l]))n=n+1;e=d[n];until true;else f(e[a],e[l]);n=n+1;e=d[n];end end end end else if 57<=r then for n=15,76 do if 61<r then f[e[a]]=f[e[l]][e[t]];break;end;local t,d,p,o,r;local n=0;while n>-1 do if n>=3 then if n>4 then if n>=2 then repeat if n~=6 then f(r,o);break;end;n=-2;until true;else n=-2;end else if 1~=n then repeat if 4~=n then o=t[p];break;end;r=t[d];until true;else r=t[d];end end else if 0<n then if-3~=n then for e=34,85 do if n<2 then d=a;break;end;p=l;break;end;else d=a;end else t=e;end end n=n+1 end break;end;else local d,t,o,p,r;local n=0;while n>-1 do if n>=3 then if n>4 then if n>=2 then repeat if n~=6 then f(r,p);break;end;n=-2;until true;else n=-2;end else if 1~=n then repeat if 4~=n then p=d[o];break;end;r=d[t];until true;else r=d[t];end end else if 0<n then if-3~=n then for e=34,85 do if n<2 then t=a;break;end;o=l;break;end;else t=a;end else d=e;end end n=n+1 end end end else if 58<=r then if r~=55 then for p=23,95 do if 58~=r then for r=0,3 do if 1<r then if-2<r then for p=45,97 do if r~=2 then if(f[e[a]]~=e[t])then n=n+1;else n=e[l];end;break;end;f[e[a]]=o[e[l]];n=n+1;e=d[n];break;end;else if(f[e[a]]~=e[t])then n=n+1;else n=e[l];end;end else if-1<r then repeat if r~=1 then f[e[a]]=(e[l]~=0);n=n+1;e=d[n];break;end;o[e[l]]=f[e[a]];n=n+1;e=d[n];until true;else f[e[a]]=(e[l]~=0);n=n+1;e=d[n];end end end break;end;if(f[e[a]]~=e[t])then n=n+1;else n=e[l];end;break;end;else for r=0,3 do if 1<r then if-2<r then for p=45,97 do if r~=2 then if(f[e[a]]~=e[t])then n=n+1;else n=e[l];end;break;end;f[e[a]]=o[e[l]];n=n+1;e=d[n];break;end;else if(f[e[a]]~=e[t])then n=n+1;else n=e[l];end;end else if-1<r then repeat if r~=1 then f[e[a]]=(e[l]~=0);n=n+1;e=d[n];break;end;o[e[l]]=f[e[a]];n=n+1;e=d[n];until true;else f[e[a]]=(e[l]~=0);n=n+1;e=d[n];end end end end else if(f[e[a]]~=e[t])then n=n+1;else n=e[l];end;end end end end else if r<73 then if r>=68 then if 69<r then if r<71 then f[e[a]]=f[e[l]]-f[e[t]];else if 68<=r then repeat if 72~=r then f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];f[e[a]]=f[e[l]]-f[e[t]];n=n+1;e=d[n];f[e[a]]=f[e[l]][e[t]];n=n+1;e=d[n];f[e[a]]=o[e[l]];n=n+1;e=d[n];if(f[e[a]]<f[e[t]])then n=e[l];else n=n+1;end;break;end;if(f[e[a]]==f[e[t]])then n=n+1;else n=e[l];end;until true;else if(f[e[a]]==f[e[t]])then n=n+1;else n=e[l];end;end end else if r>=66 then repeat if r~=68 then local e=e[a]f[e]=f[e]()break;end;n=e[l];until true;else n=e[l];end end else if r<=64 then if 63==r then if not f[e[a]]then n=n+1;else n=e[l];end;else local e=e[a]f[e]=f[e](f[e+1])end else if 65>=r then f[e[a]]=c(s[e[l]],nil,o);else if 62<=r then repeat if r>66 then f(e[a],e[l]);break;end;local r,m,s,c,p;r=e[a]f[r]=f[r]()n=n+1;e=d[n];f[e[a]][e[l]]=e[t];n=n+1;e=d[n];f[e[a]]=o[e[l]];n=n+1;e=d[n];f[e[a]]=o[e[l]];n=n+1;e=d[n];r=e[a];m=f[e[l]];f[r+1]=m;f[r]=m[e[t]];n=n+1;e=d[n];f(e[a],e[l]);n=n+1;e=d[n];r=e[a]s,c=h(f[r](z(f,r+1,e[l])))g=c+r-1 p=0;for e=r,g do p=p+1;f[e]=s[p];end;until true;else local r,m,s,c,p;r=e[a]f[r]=f[r]()n=n+1;e=d[n];f[e[a]][e[l]]=e[t];n=n+1;e=d[n];f[e[a]]=o[e[l]];n=n+1;e=d[n];f[e[a]]=o[e[l]];n=n+1;e=d[n];r=e[a];m=f[e[l]];f[r+1]=m;f[r]=m[e[t]];n=n+1;e=d[n];f(e[a],e[l]);n=n+1;e=d[n];r=e[a]s,c=h(f[r](z(f,r+1,e[l])))g=c+r-1 p=0;for e=r,g do p=p+1;f[e]=s[p];end;end end end end else if r>=78 then if 80<r then if r>=82 then if r~=82 then f[e[a]]();else f[e[a]][e[l]]=e[t];n=n+1;e=d[n];f[e[a]][e[l]]=e[t];n=n+1;e=d[n];f[e[a]][e[l]]=f[e[t]];n=n+1;e=d[n];f[e[a]]={};n=n+1;e=d[n];f[e[a]][e[l]]=e[t];n=n+1;e=d[n];f[e[a]][e[l]]=e[t];n=n+1;e=d[n];f[e[a]][e[l]]=e[t];end else local e=e[a]f[e]=f[e](f[e+1])end else if r<79 then local p;for r=0,3 do if 2<=r then if r==2 then f[e[a]]=o[e[l]];n=n+1;e=d[n];else f[e[a]][e[l]]=e[t];end else if r>-3 then for o=43,73 do if r<1 then f[e[a]][e[l]]=f[e[t]];n=n+1;e=d[n];break;end;p=e[a]f[p]=f[p](z(f,p+1,e[l]))n=n+1;e=d[n];break;end;else f[e[a]][e[l]]=f[e[t]];n=n+1;e=d[n];end end end else if r>=77 then repeat if 79<r then local t,r;for o=0,2 do if o>=1 then if o>=0 then repeat if o~=1 then t=e[a];r=f[t];for e=t+1,e[l]do p.pMdpCYCs(r,f[e])end;break;end;f(e[a],e[l]);n=n+1;e=d[n];until true;else t=e[a];r=f[t];for e=t+1,e[l]do p.pMdpCYCs(r,f[e])end;end else f[e[a]]={};n=n+1;e=d[n];end end break;end;o[e[l]]=f[e[a]];until true;else o[e[l]]=f[e[a]];end end end else if 74>=r then if r~=73 then f[e[a]]=o[e[l]];n=n+1;e=d[n];f[e[a]][e[l]]=f[e[t]];n=n+1;e=d[n];f[e[a]]=o[e[l]];n=n+1;e=d[n];f[e[a]]();n=n+1;e=d[n];do return end;else local n=e[a]f[n](z(f,n+1,e[l]))end else if r<76 then if(f[e[a]]<f[e[t]])then n=e[l];else n=n+1;end;else if r~=77 then local n=e[a]local a,e=h(f[n](z(f,n+1,e[l])))g=e+n-1 local e=0;for n=n,g do e=e+1;f[n]=a[e];end;else local n=e[a];local a=f[n];for e=n+1,e[l]do p.pMdpCYCs(a,f[e])end;end end end end end end end n=1+n;end;end;return ee end;local l=0xff;local o={};local d=(1);local a='';(function(n)local f=n local t=0x00 local e=0x00 f={(function(r)if t>0x2a then return r end t=t+1 e=(e+0x4ef-r)%0x2a return(e%0x03==0x1 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x7b);end return true end)'sbDmK'and f[0x2](0x2a3+r))or(e%0x03==0x0 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x1b);a={a..'\58 a',a};o[d]=_();d=d+((not p.AMWvWqrX)and 1 or 0);a[1]='\58'..a[1];l[2]=0xff;end return true end)'DneMG'and f[0x3](r+0xdd))or(e%0x03==0x2 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x84);a='\37';l={function()l()end};a=a..'\100\43';end return true end)'JdTUC'and f[0x1](r+0x3aa))or r end),(function(a)if t>0x24 then return a end t=t+1 e=(e+0xb3e-a)%0x4e return(e%0x03==0x2 and(function(f)if not n[f]then e=e+0x01 n[f]=(0xa9);end return true end)'SpKuA'and f[0x3](0x20a+a))or(e%0x03==0x1 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x95);end return true end)'TEaxp'and f[0x2](a+0x2d1))or(e%0x03==0x0 and(function(f)if not n[f]then e=e+0x01 n[f]=(0xee);o[d]=y();d=d+l;end return true end)'XgTPn'and f[0x1](a+0x217))or a end),(function(r)if t>0x31 then return r end t=t+1 e=(e+0x491-r)%0x16 return(e%0x03==0x2 and(function(f)if not n[f]then e=e+0x01 n[f]=(0xcd);end return true end)'CLCZk'and f[0x1](0x191+r))or(e%0x03==0x0 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x3e);l[2]=(l[2]*(j(function()o()end,z(a))-j(l[1],z(a))))+1;o[d]={};l=l[2];d=d+l;end return true end)'qq_Yh'and f[0x2](r+0x2b2))or(e%0x03==0x1 and(function(f)if not n[f]then e=e+0x01 n[f]=(0x58);end return true end)'yAsCk'and f[0x3](r+0x2d1))or r end)}f[0x1](0x245e)end){};local e=c(z(o));return e(...);end return j((function()local n={}local e=0x01;local f;if p.AMWvWqrX then f=p.AMWvWqrX(j)else f=''end if p.zORHEOFY(f,p.tQrGfKgI)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(n,e,f,a,l,d)local d;if n<4 then if 2>n then if 1>n then do return e(1),e(4,l,a,f,e),e(5,l,a,f)end;else do return function(f,e,n)if n then local e=(f/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(f%(e+e)>=e)and 1 or 0;end;end;end;end else if n>1 then for d=43,89 do if n<3 then do return 16777216,65536,256 end;break;end;do return e(1),e(4,l,a,f,e),e(5,l,a,f)end;break;end;else do return 16777216,65536,256 end;end end else if n>=6 then if n>=7 then if 7<n then do return f(n,nil,f);end else do return setmetatable({},{['__\99\97\108\108']=function(e,a,l,f,n)if n then return e[n]elseif f then return e else e[a]=l end end})end end else do return l[f]end;end else if 2~=n then repeat if n<5 then local n=a;local r,t,d=l(2);do return function()local a,e,f,l=e(f,n(n,n),n(n,n)+3);n(4);return(l*r)+(f*t)+(e*d)+a;end;end;break;end;local n=a;do return function()local e=e(f,n(n,n),n(n,n));n(1);return e;end;end;until true;else local n=a;do return function()local e=e(f,n(n,n),n(n,n));n(1);return e;end;end;end end end end),...)
+export type SliderConfig = {
+	Min : number,
+	Max : number,
+	Default : number,
+	VALUE : string,
+}
+
+
+--[[
+Example:
+
+local UI = require(script:WaitForChild('ModuleScript'))
+
+-- CONFIG --
+--	UI.Config.MainColor <color3>
+--	UI.Config.DropColor <color3>
+--	UI.Config["UI Size"] <udim2>
+
+local Window = UI:NewWindow('SWITCH HUB','Series A B C D','rbxassetid://6886692638')
+local MenuChangeLog = Window:AddMenu('Change Log',"i don't know",'hash','change')
+local MenuFunctions = Window:AddMenu('Functions',"Script Auto Fuck",'ticket','tab')
+
+local TabFunctions = MenuFunctions:AddTab('Main','Auto Kaitun','box-select')
+local TabTeleport = MenuFunctions:AddTab('Teleport','Teleport (anti chaet)','list')
+
+local ChangeLogSection = MenuChangeLog:AddTab():AddSection('Change Log' idk idk idk)
+local MainSection = TabFunctions:AddSection('Auto Farm','auto kaitun, level from 1 to 700 levels in 10s','afk farm kaitun script','book-open')
+local TeleportSection = TabTeleport:AddSection('Teleports','teleport to porn hub','teleport and steal your discord token','server')
+
+MainSection:AddToggle('Auto Farm',false,function(v)
+	print(v)
+end)
+
+MainSection:AddDropdown('Skill',{'Z','X','C','V'},nil,4,function(list,item)
+	print(list,item)
+end)
+
+MainSection:AddSlider('Skill',{Min = 15, Max = 45, Default = 15, VALUE = '%'},function(v)
+	print(v)
+end)
+
+
+MainSection:AddButton('Kill all',function(v)
+	print(v)
+end)
+
+TeleportSection:AddButton('Blox Fruit',function()
+	print('TP!')
+end)
+
+TeleportSection:AddButton('The Mimic',function()
+	print('TP!')
+end)
+
+TeleportSection:AddButton('DOORS',function()
+	print('TP!')
+end)
+
+TeleportSection:AddButton('Blade Ball',function()
+	print('TP!')
+end)
+
+TeleportSection:AddButton('Phantom Force',function()
+	print('TP!')
+end)
+
+TeleportSection:AddButton('Cry Of Fear',function()
+	print('TP!')
+end)
+]]
+
+
+local LocalPlayer = game:GetService('Players').LocalPlayer;
+local TextService = game:GetService('TextService')
+local TweenService = game:GetService('TweenService')
+local UserInputService = game:GetService('UserInputService')
+local HttpService = game:GetService('HttpService')
+
+local Alc = {
+	Config = {
+		['UI Size'] = UDim2.new(0.100000001, 315, 0.100000001, 310),
+		['MainColor'] = Color3.fromRGB(61, 207, 117),
+		['DropColor'] = Color3.fromRGB(25, 102, 61)
+	},
+	CoreGui = game:FindFirstChild('CoreGui') or LocalPlayer.PlayerGui,
+	Windows = {},
+	Icons = (function()
+		local Table;
+
+		pcall(function()
+			Table = game:HttpGet("https://raw.githubusercontent.com/evoincorp/lucideblox/master/src/modules/util/icons.json")
+		end)
+
+		if not Table then
+			Table = require(script:WaitForChild('icon'))
+		end
+
+		local _,cal = pcall(HttpService.JSONDecode,HttpService,Table)
+
+		return (_ and cal) or {['icons'] = {}}
+	end)()
+}
+
+local ProtectGui = protectgui or (syn and syn.protect_gui) or (function() end);
+
+local function cretate_button(asd)
+	local button=Instance.new('TextButton')
+	button.Size=UDim2.new(1,0,1,0)
+	button.BackgroundTransparency=1
+	button.TextTransparency=1
+	button.Text=""
+	button.Parent=asd
+	button.ZIndex=5000
+	return button
+end
+
+function Alc:GetTextSize(TextLabel:TextLabel)
+	return TextService:GetTextSize(TextLabel.Text,TextLabel.TextSize,TextLabel.Font,Vector2.new(math.huge,math.huge))
+end
+
+function Alc:GetId(Original:string)
+	if Original:find('rbxassetid://') or Original:find('=') then
+		return Original
+	end
+
+	if Alc['Icons']['icons'][Original] then
+		return Alc['Icons']['icons'][Original]
+	end
+
+	return "rbxassetid://"..Original
+end
+
+local function scrolling_connectY(scrollframe:ScrollingFrame)
+	task.spawn(function()
+		local addres = 1
+		local UIListLayout:UIListLayout = scrollframe:WaitForChild('UIListLayout',9999999)
+		scrollframe.CanvasSize=UDim2.new(0,0,0,UIListLayout.AbsoluteContentSize.Y+addres)
+
+		UIListLayout:GetPropertyChangedSignal('AbsoluteContentSize'):Connect(function()
+			scrollframe.CanvasSize=UDim2.new(0,0,0,UIListLayout.AbsoluteContentSize.Y+addres)
+		end)
+	end)
+end
+
+local function scrolling_connectX(scrollframe:ScrollingFrame)
+	task.spawn(function()
+		local addres = 1
+		local UIListLayout:UIListLayout = scrollframe:WaitForChild('UIListLayout',9999999)
+		scrollframe.CanvasSize=UDim2.new(0,UIListLayout.AbsoluteContentSize.X+addres,0,0)
+
+		UIListLayout:GetPropertyChangedSignal('AbsoluteContentSize'):Connect(function()
+			scrollframe.CanvasSize=UDim2.new(0,UIListLayout.AbsoluteContentSize.X+addres,0,0)
+		end)
+	end)
+end
+
+function Alc:NewWindow(WindowName:string,WindowDescription:string,WindowLogo:string)
+	WindowName = WindowName or "...";
+	WindowDescription = WindowDescription or "..."
+	WindowLogo = WindowLogo or '0'
+
+	local WindowAlc = {
+		Toggle = Enum.KeyCode.LeftControl,
+		Tabs = {},
+		TabSelect = 1
+	}
+
+	local Main = Instance.new("ScreenGui")
+	local Frame = Instance.new("Frame")
+	local UICorner = Instance.new("UICorner")
+	local DropShadow = Instance.new("ImageLabel")
+	local Topbar = Instance.new("Frame")
+	local HubLogo = Instance.new("ImageLabel")
+	local UICorner_2 = Instance.new("UICorner")
+	local TextTitle = Instance.new("TextLabel")
+	local TextDescription = Instance.new("TextLabel")
+	local UIGradient = Instance.new("UIGradient")
+	local MenuFrames = Instance.new("Frame")
+	local MenuScroll = Instance.new("ScrollingFrame")
+	local UIListLayout = Instance.new("UIListLayout")
+	local CloseUI = Instance.new("Frame")
+	local HubLogo_2 = Instance.new("ImageLabel")
+	local UICorner_3 = Instance.new("UICorner")
+	local UICorner_4 = Instance.new("UICorner")
+
+	Main.Name = "Main"
+	Main.Parent = Alc.CoreGui
+	Main.ResetOnSpawn = false
+	Main.IgnoreGuiInset = true
+	Main.ZIndexBehavior = Enum.ZIndexBehavior.Global
+	ProtectGui(Main)
+	Frame.Parent = Main
+	Frame.AnchorPoint = Vector2.new(0.5, 0.5)
+	Frame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+	Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	Frame.BorderSizePixel = 0
+	Frame.Position = UDim2.new(0.5, 0, 0.5, 0)
+	Frame.Size = UDim2.fromScale(0,0)
+	Frame.SizeConstraint = Enum.SizeConstraint.RelativeYY
+	Frame.ClipsDescendants = true
+
+	TweenService:Create(Frame,TweenInfo.new(1.5),{Size = Alc.Config["UI Size"]}):Play()
+
+	UICorner.Parent = Frame
+
+	DropShadow.Name = "DropShadow"
+	DropShadow.Parent = Frame
+	DropShadow.AnchorPoint = Vector2.new(0.5, 0.5)
+	DropShadow.BackgroundTransparency = 1.000
+	DropShadow.BorderSizePixel = 0
+	DropShadow.Position = UDim2.new(0.5, 0, 0.5, 0)
+	DropShadow.Size = UDim2.new(1, 47, 1, 47)
+	DropShadow.ZIndex = 0
+	DropShadow.Image = "rbxassetid://6015897843"
+	DropShadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
+	DropShadow.ImageTransparency = 0.500
+	DropShadow.ScaleType = Enum.ScaleType.Slice
+	DropShadow.SliceCenter = Rect.new(49, 49, 450, 450)
+	DropShadow.Rotation = 0.01
+
+	Topbar.Name = "Topbar"
+	Topbar.Parent = Frame
+	Topbar.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	Topbar.BackgroundTransparency = 1.000
+	Topbar.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	Topbar.BorderSizePixel = 0
+	Topbar.Size = UDim2.new(1, 0, 0.0799999982, 0)
+	Topbar.ZIndex = 2
+
+	HubLogo.Name = "HubLogo"
+	HubLogo.Parent = Topbar
+	HubLogo.AnchorPoint = Vector2.new(0.5, 0.5)
+	HubLogo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	HubLogo.BackgroundTransparency = 1.000
+	HubLogo.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	HubLogo.BorderSizePixel = 0
+	HubLogo.Position = UDim2.new(0.0450000018, 0, 0.5, 0)
+	HubLogo.Size = UDim2.new(0.899999976, 0, 0.899999976, 0)
+	HubLogo.SizeConstraint = Enum.SizeConstraint.RelativeYY
+	HubLogo.ZIndex = 3
+	HubLogo.Image = Alc:GetId(WindowLogo)
+
+	UICorner_2.Parent = HubLogo
+
+	TextTitle.Name = "TextTitle"
+	TextTitle.Parent = Topbar
+	TextTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextTitle.BackgroundTransparency = 1.000
+	TextTitle.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	TextTitle.BorderSizePixel = 0
+	TextTitle.Position = UDim2.new(0.103366353, 0, 0.0999998972, 0)
+	TextTitle.Size = UDim2.new(0.896555603, 0, 0.433997005, 0)
+	TextTitle.ZIndex = 3
+	TextTitle.Font = Enum.Font.GothamBold
+	TextTitle.Text = WindowName
+	TextTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextTitle.TextScaled = true
+	TextTitle.TextSize = 14.000
+	TextTitle.TextWrapped = true
+	TextTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+	TextDescription.Name = "TextDescription"
+	TextDescription.Parent = Topbar
+	TextDescription.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	TextDescription.BackgroundTransparency = 1.000
+	TextDescription.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	TextDescription.BorderSizePixel = 0
+	TextDescription.Position = UDim2.new(0.103366353, 0, 0.53399694, 0)
+	TextDescription.Size = UDim2.new(0, 80, 0.300000012, 0)
+	TextDescription.ZIndex = 3
+	TextDescription.Font = Enum.Font.GothamBold
+	TextDescription.Text = WindowDescription
+	TextDescription.TextColor3 = Color3.fromRGB(255, 255, 255)
+	TextDescription.TextScaled = true
+	TextDescription.TextSize = 14.000
+	TextDescription.TextWrapped = true
+	TextDescription.TextXAlignment = Enum.TextXAlignment.Left
+
+	--[[UPDATE TEXT]]
+	local function UpdateDescTextSize()
+		local size = Alc:GetTextSize(TextDescription)
+		TweenService:Create(TextDescription,TweenInfo.new(0.5),{Size = UDim2.new(0,size.X,0.3,0)}):Play()
+	end
+
+	UpdateDescTextSize()
+
+	UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Alc.Config.MainColor), ColorSequenceKeypoint.new(1.00, Alc.Config.DropColor)}
+	UIGradient.Parent = TextDescription
+
+	MenuFrames.Name = "MenuFrames"
+	MenuFrames.Parent = Frame
+	MenuFrames.AnchorPoint = Vector2.new(0.5, 0)
+	MenuFrames.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	MenuFrames.BackgroundTransparency = 1.000
+	MenuFrames.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	MenuFrames.BorderSizePixel = 0
+	MenuFrames.Position = UDim2.new(0.5, 0, 0.075000003, 0)
+	MenuFrames.Size = UDim2.new(0.949999988, 0, 0.0799999982, 0)
+	MenuFrames.ZIndex = 2
+
+	MenuScroll.Name = "MenuScroll"
+	MenuScroll.Parent = MenuFrames
+	MenuScroll.Active = true
+	MenuScroll.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	MenuScroll.BackgroundTransparency = 1.000
+	MenuScroll.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	MenuScroll.BorderSizePixel = 0
+	MenuScroll.Size = UDim2.new(1, 0, 1, 0)
+	MenuScroll.ZIndex = 3
+	MenuScroll.CanvasSize = UDim2.new(2, 0, 0, 0)
+	MenuScroll.ScrollBarThickness = 0
+	MenuScroll.TopImage = ""
+
+	scrolling_connectX((MenuScroll))
+
+	UIListLayout.Parent = MenuScroll
+	UIListLayout.FillDirection = Enum.FillDirection.Horizontal
+	UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+	UIListLayout.VerticalAlignment = Enum.VerticalAlignment.Center
+	UIListLayout.Padding = UDim.new(0,8)
+	CloseUI.Name = "CloseUI"
+	CloseUI.Parent = Frame
+	CloseUI.AnchorPoint = Vector2.new(0.5, 0.5)
+	CloseUI.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+	CloseUI.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	CloseUI.BorderSizePixel = 0
+	CloseUI.Position = UDim2.new(0.5, 0, 0.5, 0)
+	CloseUI.Visible = false
+	CloseUI.ZIndex = 45
+	CloseUI.Size = UDim2.fromScale(1,1)
+
+	TweenService:Create(CloseUI,TweenInfo.new(2,Enum.EasingStyle.Quint,Enum.EasingDirection.In),{Size = UDim2.fromScale(0,0)}):Play()
+
+	HubLogo_2.Name = "HubLogo"
+	HubLogo_2.Parent = CloseUI
+	HubLogo_2.AnchorPoint = Vector2.new(0.5, 0.5)
+	HubLogo_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	HubLogo_2.BackgroundTransparency = 1.000
+	HubLogo_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+	HubLogo_2.BorderSizePixel = 0
+	HubLogo_2.Position = UDim2.new(0.5, 0, 0.5, 0)
+	HubLogo_2.Size = UDim2.new(0.25, 0, 0.25, 0)
+	HubLogo_2.SizeConstraint = Enum.SizeConstraint.RelativeYY
+	HubLogo_2.ZIndex = 55
+	HubLogo_2.Image = Alc:GetId(WindowLogo)
+
+	UICorner_3.Parent = HubLogo_2
+
+	UICorner_4.Parent = CloseUI
+
+	function WindowAlc:AddMenu(MenuName:string,MenuDescription:string,MenuIcon:string,MenuType:string)
+		MenuType = MenuType or 'tab'
+		local MenuAlc = {
+			Checker = {}
+		}
+
+		local MenuButton = Instance.new("Frame")
+		local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+		local UICorner = Instance.new("UICorner")
+		local MenuLogo = Instance.new("ImageLabel")
+		local MenuText = Instance.new("TextLabel")
+		local MenuDesc = Instance.new("TextLabel")
+		local Button = Instance.new("TextButton")
+
+		MenuButton.Name = "MenuButton"
+		MenuButton.Parent = MenuScroll
+		MenuButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		MenuButton.BackgroundTransparency = 1.000
+		MenuButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		MenuButton.BorderSizePixel = 0
+		MenuButton.ClipsDescendants = false
+		MenuButton.Size = UDim2.new(0.5, 0, 0.75, 0)
+		MenuButton.ZIndex = 4
+
+		UIAspectRatioConstraint.Parent = MenuButton
+		UIAspectRatioConstraint.AspectRatio = 0.1
+		UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+		UIAspectRatioConstraint.DominantAxis = Enum.DominantAxis.Height
+
+		TweenService:Create(UIAspectRatioConstraint,TweenInfo.new(0.3 + (#WindowAlc.Tabs / 10),Enum.EasingStyle.Back),{AspectRatio = 4.000}):Play()
+		UICorner.CornerRadius = UDim.new(0, 3)
+		UICorner.Parent = MenuButton
+
+		MenuLogo.Name = "MenuLogo"
+		MenuLogo.Parent = MenuButton
+		MenuLogo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		MenuLogo.BackgroundTransparency = 1.000
+		MenuLogo.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		MenuLogo.BorderSizePixel = 0
+		MenuLogo.Size = UDim2.new(1, 0, 1, 0)
+		MenuLogo.SizeConstraint = Enum.SizeConstraint.RelativeYY
+		MenuLogo.ZIndex = 5
+		MenuLogo.Image = Alc:GetId(MenuIcon or "hash")
+
+		MenuText.Name = "MenuText"
+		MenuText.Parent = MenuButton
+		MenuText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		MenuText.BackgroundTransparency = 1.000
+		MenuText.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		MenuText.BorderSizePixel = 0
+		MenuText.Position = UDim2.new(0.310877919, 0, 0, 0)
+		MenuText.Size = UDim2.new(2.10955262, 0, 0.5, 0)
+		MenuText.ZIndex = 5
+		MenuText.Font = Enum.Font.GothamBold
+		MenuText.Text = MenuName or "Menu"
+		MenuText.TextColor3 = Color3.fromRGB(255, 255, 255)
+		MenuText.TextScaled = true
+		MenuText.TextSize = 14.000
+		MenuText.TextWrapped = true
+		MenuText.TextXAlignment = Enum.TextXAlignment.Left
+
+		MenuDesc.Name = "MenuDesc"
+		MenuDesc.Parent = MenuButton
+		MenuDesc.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		MenuDesc.BackgroundTransparency = 1.000
+		MenuDesc.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		MenuDesc.BorderSizePixel = 0
+		MenuDesc.Position = UDim2.new(0.31100589, 0, 0.600000083, 0)
+		MenuDesc.Size = UDim2.new(2.10955262, 0, 0.349999547, 0)
+		MenuDesc.ZIndex = 5
+		MenuDesc.Font = Enum.Font.GothamBold
+		MenuDesc.Text = MenuDescription or "Description"
+		MenuDesc.TextColor3 = Color3.fromRGB(255, 255, 255)
+		MenuDesc.TextScaled = true
+		MenuDesc.TextSize = 14.000
+		MenuDesc.TextTransparency = 0.500
+		MenuDesc.TextWrapped = true
+		MenuDesc.TextXAlignment = Enum.TextXAlignment.Left
+
+		Button.Name = "Button"
+		Button.Parent = MenuButton
+		Button.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		Button.BackgroundTransparency = 1.000
+		Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
+		Button.BorderSizePixel = 0
+		Button.Size = UDim2.new(1, 0, 1, 0)
+		Button.ZIndex = 25
+		Button.Font = Enum.Font.SourceSans
+		Button.Text = ""
+		Button.TextColor3 = Color3.fromRGB(0, 0, 0)
+		Button.TextSize = 14.000
+		Button.TextTransparency = 1.000
+		local MainFrame
+
+		if MenuType:find('tab') then
+			local PageFrames = Instance.new("Frame")
+			local Search = Instance.new("Frame")
+			local SearchEngine = Instance.new("Frame")
+			local UICorner = Instance.new("UICorner")
+			local UIStroke = Instance.new("UIStroke")
+			local LabelText = Instance.new("TextLabel")
+			local SearchIcon = Instance.new("ImageLabel")
+			local UICorner_2 = Instance.new("UICorner")
+			local searchbox = Instance.new("TextBox")
+			local Framet = Instance.new("Frame")
+			local Frame_2 = Instance.new("Frame")
+			local TabFrames = Instance.new("ScrollingFrame")
+			local UIListLayout = Instance.new("UIListLayout")
+			local Main = Instance.new("Frame")
+
+
+			PageFrames.Name = "PageFrames"
+			PageFrames.Parent = Frame
+			PageFrames.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			PageFrames.BackgroundTransparency = 1.000
+			PageFrames.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			PageFrames.BorderSizePixel = 0
+			PageFrames.ClipsDescendants = true
+			PageFrames.Position = UDim2.new(0, 0, 0.163185388, 0)
+			PageFrames.Size = UDim2.new(1, 0, 0.836814642, 0)
+			PageFrames.ZIndex = 4
+
+			MainFrame = PageFrames
+			Search.Name = "Search"
+			Search.Parent = PageFrames
+			Search.AnchorPoint = Vector2.new(0.5, 0.5)
+			Search.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Search.BackgroundTransparency = 1.000
+			Search.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Search.BorderSizePixel = 0
+			Search.ClipsDescendants = true
+			Search.Position = UDim2.new(0.187006071, 0, 0.5, 0)
+			Search.Size = UDim2.new(0.354012221, 0, 0.980000138, 0)
+			Search.ZIndex = 4
+
+			SearchEngine.Name = "SearchEngine"
+			SearchEngine.Parent = Search
+			SearchEngine.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+			SearchEngine.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			SearchEngine.BorderSizePixel = 0
+			SearchEngine.ClipsDescendants = true
+			SearchEngine.Size = UDim2.new(1, 0, 0.0680000037, 0)
+			SearchEngine.ZIndex = 6
+
+			UICorner.CornerRadius = UDim.new(0, 2)
+			UICorner.Parent = SearchEngine
+
+			UIStroke.Thickness = 0.500
+			UIStroke.Color = Color3.fromRGB(39, 39, 39)
+			UIStroke.Parent = SearchEngine
+
+			LabelText.Name = "LabelText"
+			LabelText.Parent = SearchEngine
+			LabelText.AnchorPoint = Vector2.new(0.5, 0.5)
+			LabelText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			LabelText.BackgroundTransparency = 1.000
+			LabelText.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			LabelText.BorderSizePixel = 0
+			LabelText.Position = UDim2.new(0.612374663, 0, 0.499999851, 0)
+			LabelText.Size = UDim2.new(0.871346772, 0, 0.50000006, 0)
+			LabelText.ZIndex = 6
+			LabelText.Font = Enum.Font.GothamBold
+			LabelText.Text = "Search"
+			LabelText.TextColor3 = Color3.fromRGB(255, 255, 255)
+			LabelText.TextScaled = true
+			LabelText.TextSize = 14.000
+			LabelText.TextTransparency = 0.750
+			LabelText.TextWrapped = true
+			LabelText.TextXAlignment = Enum.TextXAlignment.Left
+
+			SearchIcon.Name = "SearchIcon"
+			SearchIcon.Parent = SearchEngine
+			SearchIcon.AnchorPoint = Vector2.new(0.5, 0.5)
+			SearchIcon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			SearchIcon.BackgroundTransparency = 1.000
+			SearchIcon.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			SearchIcon.BorderSizePixel = 0
+			SearchIcon.Position = UDim2.new(0.075000003, 0, 0.5, 0)
+			SearchIcon.Size = UDim2.new(0.699999988, 0, 0.699999988, 0)
+			SearchIcon.SizeConstraint = Enum.SizeConstraint.RelativeYY
+			SearchIcon.ZIndex = 6
+			SearchIcon.Image = "rbxassetid://7734052925"
+			SearchIcon.ImageTransparency = 0.750
+
+			UICorner_2.CornerRadius = UDim.new(0, 6)
+			UICorner_2.Parent = SearchIcon
+
+			searchbox.Name = "searchbox"
+			searchbox.Parent = SearchEngine
+			searchbox.AnchorPoint = Vector2.new(0.5, 0.5)
+			searchbox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			searchbox.BackgroundTransparency = 1.000
+			searchbox.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			searchbox.BorderSizePixel = 0
+			searchbox.Position = UDim2.new(1.46321285, 0, 0.499999851, 0)
+			searchbox.Size = UDim2.new(2.66615963, 0, 0.50000006, 0)
+			searchbox.ZIndex = 7
+			searchbox.ClearTextOnFocus = false
+			searchbox.Font = Enum.Font.GothamBold
+			searchbox.Text = ""
+			searchbox.TextColor3 = Color3.fromRGB(255, 255, 255)
+			searchbox.TextScaled = true
+			searchbox.TextSize = 14.000
+			searchbox.TextWrapped = true
+			searchbox.TextXAlignment = Enum.TextXAlignment.Left
+
+			Framet.Parent = Search
+			Framet.Active = true
+			Framet.AnchorPoint = Vector2.new(0, 0.5)
+			Framet.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Framet.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Framet.BorderSizePixel = 0
+			Framet.Position = UDim2.new(1.01999998, 0, 0.5, 0)
+			Framet.Rotation = 0
+			Framet.Size = UDim2.new(0.00499999989, 0, 1, 0)
+			Framet.ZIndex = 3
+
+			Frame_2.Parent = Framet
+			Frame_2.Active = true
+			Frame_2.AnchorPoint = Vector2.new(0, 0.5)
+			Frame_2.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			Frame_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Frame_2.BorderSizePixel = 0
+			Frame_2.Position = UDim2.new(1.00999999, 0, 0.5, 0)
+			Frame_2.Size = UDim2.new(1, 0, 1, 0)
+			Frame_2.ZIndex = 3
+
+			TabFrames.Name = "TabFrames"
+			TabFrames.Parent = Search
+			TabFrames.Active = true
+			TabFrames.AnchorPoint = Vector2.new(0.5, 0.5)
+			TabFrames.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			TabFrames.BackgroundTransparency = 1.000
+			TabFrames.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			TabFrames.BorderSizePixel = 0
+			TabFrames.ClipsDescendants = false
+			TabFrames.Position = UDim2.new(0.500000119, 0, 0.549316823, 0)
+			TabFrames.Size = UDim2.new(0.949999988, 0, 0.901000023, 0)
+			TabFrames.ZIndex = 6
+			TabFrames.ScrollBarThickness = 0
+
+			scrolling_connectY(TabFrames)
+			UIListLayout.Parent = TabFrames
+			UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout.Padding = UDim.new(0, 4)
+
+			Main.Name = "Main"
+			Main.Parent = PageFrames
+			Main.AnchorPoint = Vector2.new(0.5, 0.5)
+			Main.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Main.BackgroundTransparency = 1.000
+			Main.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Main.BorderSizePixel = 0
+			Main.ClipsDescendants = true
+			Main.Position = UDim2.new(0.685165405, 0, 0.5, 0)
+			Main.Size = UDim2.new(0.609669089, 0, 0.980000019, 0)
+			Main.ZIndex = 4
+
+
+			searchbox.Focused:Connect(function()
+				TweenService:Create(LabelText,TweenInfo.new(0.1),{TextTransparency = 1}):Play()
+				TweenService:Create(SearchIcon,TweenInfo.new(0.1),{ImageTransparency = 1}):Play()
+			end)
+
+			searchbox.FocusLost:Connect(function()
+				if #searchbox.Text > 0 then
+					for i,v in ipairs(TabFrames:GetChildren()) do
+						if v:IsA('Frame') then
+							if v.Name:lower():find(searchbox.Text:lower()) then
+								v.Visible = true
+							else
+								v.Visible = false
+							end
+						end
+					end
+				else
+					TweenService:Create(LabelText,TweenInfo.new(0.1),{TextTransparency = 0.75}):Play()
+					TweenService:Create(SearchIcon,TweenInfo.new(0.1),{ImageTransparency = 0.75}):Play()
+					for i,v in ipairs(TabFrames:GetChildren()) do
+						if v:IsA('Frame') then
+							v.Visible = true
+						end
+					end
+				end
+			end)
+
+			searchbox:GetPropertyChangedSignal('Text'):Connect(function()
+				if #searchbox.Text > 0 then
+					TweenService:Create(LabelText,TweenInfo.new(0.1),{TextTransparency = 1}):Play()
+					TweenService:Create(SearchIcon,TweenInfo.new(0.1),{ImageTransparency = 1}):Play()
+					for i,v in ipairs(TabFrames:GetChildren()) do
+						if v:IsA('Frame') then
+							if v.Name:lower():find(searchbox.Text:lower()) then
+								v.Visible = true
+							else
+								v.Visible = false
+							end
+						end
+					end
+				else
+					TweenService:Create(LabelText,TweenInfo.new(0.1),{TextTransparency = 0.75}):Play()
+					TweenService:Create(SearchIcon,TweenInfo.new(0.1),{ImageTransparency = 0.75}):Play()
+
+					for i,v in ipairs(TabFrames:GetChildren()) do
+						if v:IsA('Frame') then
+							v.Visible = true
+						end
+					end
+				end
+			end)
+
+		elseif MenuType:find('change') then
+			local ChangeLog = Instance.new("Frame")
+			local Main = Instance.new("Frame")
+			local MainScrolling = Instance.new("ScrollingFrame")
+			local UIListLayout = Instance.new("UIListLayout")
+			local Framec = Instance.new("Frame")
+			local UICorner = Instance.new("UICorner")
+			scrolling_connectY(MainScrolling)
+			ChangeLog.Name = "ChangeLog"
+			ChangeLog.Parent = Frame
+			ChangeLog.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			ChangeLog.BackgroundTransparency = 1.000
+			ChangeLog.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			ChangeLog.BorderSizePixel = 0
+			ChangeLog.Position = UDim2.new(0, 0, 0.163185388, 0)
+			ChangeLog.Size = UDim2.new(1, 0, 0.836814642, 0)
+			ChangeLog.Visible = true
+
+			ChangeLog.ZIndex = 4
+			MainFrame = ChangeLog
+
+			Main.Name = "Main"
+			Main.Parent = ChangeLog
+			Main.AnchorPoint = Vector2.new(0.5, 0.5)
+			Main.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Main.BackgroundTransparency = 1.000
+			Main.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Main.BorderSizePixel = 0
+			Main.ClipsDescendants = true
+			Main.Position = UDim2.new(0.5, 0, 0.5, 0)
+			Main.Size = UDim2.new(0.949999988, 0, 0.949999988, 0)
+			Main.ZIndex = 4
+
+			MainScrolling.Name = "MainScrolling"
+			MainScrolling.Parent = Main
+			MainScrolling.Active = true
+			MainScrolling.AnchorPoint = Vector2.new(0.5, 0.5)
+			MainScrolling.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			MainScrolling.BackgroundTransparency = 1.000
+			MainScrolling.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			MainScrolling.BorderSizePixel = 0
+			MainScrolling.ClipsDescendants = false
+			MainScrolling.Position = UDim2.new(0.5, 0, 0.5, 0)
+			MainScrolling.Size = UDim2.new(0.99000001, 0, 1, 0)
+			MainScrolling.ZIndex = 2
+			MainScrolling.ScrollBarThickness = 0
+
+			UIListLayout.Parent = MainScrolling
+			UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout.Padding = UDim.new(0, 5)
+
+			Framec.Parent = ChangeLog
+			Framec.AnchorPoint = Vector2.new(0.5, 1)
+			Framec.BackgroundColor3 = Color3.fromRGB(37, 37, 37)
+			Framec.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Framec.BorderSizePixel = 0
+			Framec.Position = UDim2.new(0.5, 0, 0, 0)
+			Framec.Size = UDim2.new(0.949999988, 0, 0.00499999989, 0)
+
+			UICorner.CornerRadius = UDim.new(0.5, 0)
+			UICorner.Parent = Framec
+		end
+
+		local myindex = #WindowAlc.Tabs + 1
+
+		local function Connect(val)
+			if val then
+				TweenService:Create(MainFrame,TweenInfo.new(0.3),{Position = UDim2.fromScale(0,0.163)}):Play()
+				TweenService:Create(MenuText,TweenInfo.new(0.1 + (myindex / 10)),{TextColor3 = Alc.Config.MainColor,TextTransparency=0}):Play()
+			else
+
+				if myindex < WindowAlc.TabSelect then
+					TweenService:Create(MainFrame,TweenInfo.new(0.3),{Position = UDim2.fromScale(-1,0.163)}):Play()
+				else
+					TweenService:Create(MainFrame,TweenInfo.new(0.3),{Position = UDim2.fromScale(1,0.163)}):Play()
+				end
+				TweenService:Create(MenuText,TweenInfo.new(0.1),{TextColor3 = Color3.fromRGB(255, 255, 255),TextTransparency=0.25}):Play()
+			end
+		end
+
+		if not WindowAlc.Tabs[1] then
+			Connect(true)
+		else
+			Connect(false)
+		end
+
+		table.insert(WindowAlc.Tabs,{MenuButton,Connect})
+
+		myindex = #WindowAlc.Tabs
+
+		Button.MouseButton1Click:Connect(function()
+			WindowAlc.TabSelect = myindex
+			for i,v in ipairs(WindowAlc.Tabs) do
+				if v[1]==MenuButton then
+					WindowAlc.TabSelect = i
+					v[2](true)
+				else
+					v[2](false)
+				end
+			end
+		end)
+
+		function MenuAlc:AddTab(TabName:string,Descriptions:string,IconId:string)
+			local MainTab = {
+
+			}
+
+			local TabAlc = {}
+
+			local MainScrollingfr
+			if MenuType:find('tab') then
+				local MainScrolling = Instance.new("ScrollingFrame")
+				local UIListLayout_2 = Instance.new("UIListLayout")
+
+				scrolling_connectY(MainScrolling)
+				MainScrollingfr = MainScrolling
+				MainScrolling.Name = tostring(TabName or "Main")
+				MainScrolling.Name = "MainScrolling"
+				MainScrolling.Parent =  MainFrame:WaitForChild('Main')
+				MainScrolling.Active = true
+				MainScrolling.AnchorPoint = Vector2.new(0.5, 0.5)
+				MainScrolling.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				MainScrolling.BackgroundTransparency = 1.000
+				MainScrolling.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				MainScrolling.BorderSizePixel = 0
+				MainScrolling.ClipsDescendants = false
+				MainScrolling.Position = UDim2.new(0.5, 0, 0.5, 0)
+				MainScrolling.Size = UDim2.new(0.99000001, 0, 1, 0)
+				MainScrolling.ZIndex = 2
+				MainScrolling.ScrollBarThickness = 0
+
+				UIListLayout_2.Parent = MainScrolling
+				UIListLayout_2.HorizontalAlignment = Enum.HorizontalAlignment.Center
+				UIListLayout_2.SortOrder = Enum.SortOrder.LayoutOrder
+				UIListLayout_2.Padding = UDim.new(0, 5)
+
+				local TabButton = Instance.new("Frame")
+				local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+				local UICorner = Instance.new("UICorner")
+				local UIStroke = Instance.new("UIStroke")
+				local UIGradient = Instance.new("UIGradient")
+				local TabIcon = Instance.new("ImageLabel")
+				local Text = Instance.new("TextLabel")
+				local Description = Instance.new("TextLabel")
+				local Button = Instance.new("TextButton")
+
+				TabButton.Name = tostring(TabName or "Main")
+				TabButton.Parent = MainFrame:WaitForChild('Search'):WaitForChild('TabFrames')
+				TabButton.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
+				TabButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				TabButton.BorderSizePixel = 0
+				TabButton.Size = UDim2.new(1, 0, 1, 0)
+				TabButton.ZIndex = 5
+
+				UIAspectRatioConstraint.Parent = TabButton
+				UIAspectRatioConstraint.AspectRatio = 4.250
+				UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+				UICorner.CornerRadius = UDim.new(0, 3)
+				UICorner.Parent = TabButton
+
+				UIStroke.Transparency = 0.250
+				UIStroke.Color = Color3.fromRGB(37, 37, 37)
+				UIStroke.Parent = TabButton
+
+				UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.50), NumberSequenceKeypoint.new(0.20, 0.00), NumberSequenceKeypoint.new(0.80, 0.00), NumberSequenceKeypoint.new(1.00, 0.50)}
+				UIGradient.Parent = UIStroke
+
+				TabIcon.Name = "TabIcon"
+				TabIcon.Parent = TabButton
+				TabIcon.AnchorPoint = Vector2.new(0.5, 0.5)
+				TabIcon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				TabIcon.BackgroundTransparency = 1.000
+				TabIcon.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				TabIcon.BorderSizePixel = 0
+				TabIcon.Position = UDim2.new(0.135000005, 0, 0.5, 0)
+				TabIcon.Size = UDim2.new(0.699999988, 0, 0.699999988, 0)
+				TabIcon.SizeConstraint = Enum.SizeConstraint.RelativeYY
+				TabIcon.ZIndex = 6
+				TabIcon.Image = Alc:GetId(IconId or '0')
+
+				Text.Name = "Text"
+				Text.Parent = TabButton
+				Text.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Text.BackgroundTransparency = 1.000
+				Text.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Text.BorderSizePixel = 0
+				Text.Position = UDim2.new(0.246999651, 0, 0.200000003, 0)
+				Text.Size = UDim2.new(0.753000021, 0, 0.400000006, 0)
+				Text.ZIndex = 7
+				Text.Font = Enum.Font.GothamBold
+				Text.Text = TabName or "Main"
+				Text.TextColor3 = Color3.fromRGB(255, 255, 255)
+				Text.TextScaled = true
+				Text.TextSize = 14.000
+				Text.TextWrapped = true
+				Text.TextXAlignment = Enum.TextXAlignment.Left
+
+				Description.Name = "Description"
+				Description.Parent = TabButton
+				Description.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Description.BackgroundTransparency = 1.000
+				Description.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Description.BorderSizePixel = 0
+				Description.Position = UDim2.new(0.246999651, 0, 0.600000024, 0)
+				Description.Size = UDim2.new(0.753000081, 0, 0.25, 0)
+				Description.ZIndex = 7
+				Description.Font = Enum.Font.GothamBold
+				Description.Text = Descriptions or "loadstring()()"
+				Description.TextColor3 = Color3.fromRGB(255, 255, 255)
+				Description.TextScaled = true
+				Description.TextSize = 14.000
+				Description.TextTransparency = 0.500
+				Description.TextWrapped = true
+				Description.TextXAlignment = Enum.TextXAlignment.Left
+
+				Button.Name = "Button"
+				Button.Parent = TabButton
+				Button.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Button.BackgroundTransparency = 1.000
+				Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Button.BorderSizePixel = 0
+				Button.Size = UDim2.new(1, 0, 1, 0)
+				Button.ZIndex = 25
+				Button.Font = Enum.Font.SourceSans
+				Button.Text = ""
+				Button.TextColor3 = Color3.fromRGB(0, 0, 0)
+				Button.TextSize = 14.000
+				Button.TextTransparency = 1.000
+
+				local function connect(val)
+					local low = UDim2.fromScale(0.9,0.95)
+					if val then
+						TweenService:Create(TabIcon,TweenInfo.new(0.15),{ImageTransparency = 0}):Play()
+						TweenService:Create(Description,TweenInfo.new(0.15),{TextTransparency = 0.5}):Play()
+						TweenService:Create(Text,TweenInfo.new(0.15),{TextTransparency = 0}):Play()
+						TweenService:Create(UIStroke,TweenInfo.new(0.15),{Transparency = 0.25}):Play()
+						TweenService:Create(MainScrolling,TweenInfo.new(0.4),{
+							Position = UDim2.new(0.5, 0, 0.5, 0)
+						}):Play()
+					else
+
+						TweenService:Create(TabIcon,TweenInfo.new(0.15),{ImageTransparency = 0.55}):Play()
+						TweenService:Create(Description,TweenInfo.new(0.15),{TextTransparency = 0.85}):Play()
+						TweenService:Create(Text,TweenInfo.new(0.15),{TextTransparency = 0.55}):Play()
+						TweenService:Create(UIStroke,TweenInfo.new(0.15),{Transparency = 0.65}):Play()
+						TweenService:Create(MainScrolling,TweenInfo.new(0.4),{
+							Position = UDim2.fromScale(1.55,0.5)
+						}):Play()
+
+					end
+				end
+
+				if not MenuAlc[1] then
+					connect(true)
+				else
+					connect(false)
+				end
+
+				table.insert(MenuAlc,{connect,TabIcon})
+
+				Button.MouseButton1Click:Connect(function()
+					for i,v in ipairs(MenuAlc) do
+						if v[2] == TabIcon then
+							v[1](true)
+						else
+							v[1](false)
+						end
+					end
+				end)
+			elseif MenuType:find('change') then
+				MainScrollingfr = MainFrame:FindFirstChild('Main'):FindFirstChild('MainScrolling')
+			end
+
+			function MainTab:AddLabel(LabelName)
+				local SectionTitle = Instance.new("TextLabel")
+				local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+
+				SectionTitle.Name = "SectionTitle"
+				SectionTitle.Parent = MainScrollingfr
+				SectionTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				SectionTitle.BackgroundTransparency = 1.000
+				SectionTitle.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				SectionTitle.BorderSizePixel = 0
+				SectionTitle.Size = UDim2.new(0.980000019, 0, 0.5, 0)
+				SectionTitle.ZIndex = 4
+				SectionTitle.Font = Enum.Font.GothamBold
+				SectionTitle.Text = LabelName or "SECTRION"
+				SectionTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+				SectionTitle.TextScaled = true
+				SectionTitle.TextSize = 14.000
+				SectionTitle.TextWrapped = true
+				SectionTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+				UIAspectRatioConstraint.Parent = SectionTitle
+				UIAspectRatioConstraint.AspectRatio = 23.000
+				UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+				local Config = {}
+
+				function Config:Text(...)
+					SectionTitle.Text = tostring(...)
+				end
+
+				function Config:Delete()
+					SectionTitle:Destroy()
+
+				end
+
+				return Config
+			end
+
+			function MainTab:AddSection(SectionName:string,SectionHeader:string,SectionDescriptions:string,SectionIcons:string)
+				local SectionTitle = Instance.new("TextLabel")
+				local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+				local SectionInfo = {}
+
+				SectionTitle.Name = "SectionTitle"
+				SectionTitle.Parent = MainScrollingfr
+				SectionTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				SectionTitle.BackgroundTransparency = 1.000
+				SectionTitle.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				SectionTitle.BorderSizePixel = 0
+				SectionTitle.Size = UDim2.new(0.980000019, 0, 0.5, 0)
+				SectionTitle.ZIndex = 4
+				SectionTitle.Font = Enum.Font.GothamBold
+				SectionTitle.Text = SectionName or "SECTRION"
+				SectionTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+				SectionTitle.TextScaled = true
+				SectionTitle.TextSize = 14.000
+				SectionTitle.TextWrapped = true
+				SectionTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+				UIAspectRatioConstraint.Parent = SectionTitle
+				UIAspectRatioConstraint.AspectRatio = 23.000
+				UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+				local SectionFrame = Instance.new("Frame")
+				local UICorner = Instance.new("UICorner")
+				local UIStroke = Instance.new("UIStroke")
+				local UIListLayout = Instance.new("UIListLayout")
+				local Header = Instance.new("Frame")
+				local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+				local SectionIcon = Instance.new("ImageLabel")
+				local SectionHeadTest = Instance.new("TextLabel")
+				local SectionDescription = Instance.new("TextLabel")
+				local Frame = Instance.new("Frame")
+				local UICorner_2 = Instance.new("UICorner")
+				local defaut = 65
+
+				local function UpdateSiz()
+					local vs = 15
+					
+					for i,v in ipairs(SectionFrame:GetChildren()) do
+						if v:IsA('Frame') then
+							vs += (v.AbsoluteSize.Y or v.Size.Y.Scale) + UIListLayout.Padding.Offset
+						end
+					end
+
+					TweenService:Create(SectionFrame,TweenInfo.new(0.1),{Size = UDim2.new(1, 0, 0, vs)}):Play()
+				end
+
+				local delays = tick() + 0.1
+				CloseUI:GetPropertyChangedSignal('Size'):Connect(function()
+					if tick() > delays then
+						UpdateSiz()
+						delays = tick() + 0.1
+					end
+				end)
+				--Properties:
+
+				SectionFrame.Name = "SectionFrame"
+				SectionFrame.Parent = MainScrollingfr
+				SectionFrame.BackgroundColor3 = Color3.fromRGB(23, 23, 23)
+				SectionFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				SectionFrame.BorderSizePixel = 0
+				SectionFrame.ClipsDescendants = true
+				SectionFrame.Position = UDim2.new(0, 0, 0.100000001, 0)
+				SectionFrame.Size = UDim2.new(1, 0, 0, 65)
+				SectionFrame.ZIndex = 4
+
+				UpdateSiz()
+
+				UICorner.Parent = SectionFrame
+
+				UIStroke.Color = Color3.fromRGB(37, 37, 37)
+				UIStroke.Parent = SectionFrame
+
+				UIListLayout.Parent = SectionFrame
+				UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+				UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+				UIListLayout.Padding = UDim.new(0, 5)
+
+				Header.Name = "Header"
+				Header.Parent = SectionFrame
+				Header.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Header.BackgroundTransparency = 1.000
+				Header.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Header.BorderSizePixel = 0
+				Header.Size = UDim2.new(0.949999988, 0, 0.5, 0)
+				Header.ZIndex = 5
+
+				UIAspectRatioConstraint.Parent = Header
+				UIAspectRatioConstraint.AspectRatio = 4.000
+				UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+				Frame.Parent = Header
+				Frame.AnchorPoint = Vector2.new(0.5, 0.5)
+				Frame.BackgroundColor3 = Color3.fromRGB(28, 28, 28)
+				Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Frame.BorderSizePixel = 0
+				Frame.Position = UDim2.new(0.5, 0, 0.899999976, 0)
+				Frame.Size = UDim2.new(0.949999988, 0, 0.0250000004, 0)
+				Frame.ZIndex = 5
+
+				UICorner_2.CornerRadius = UDim.new(0.5, 0)
+				UICorner_2.Parent = Frame
+
+				SectionFrame.ChildAdded:Connect(UpdateSiz)
+				function SectionInfo:Update()
+					return UpdateSiz()
+				end
+
+				function SectionInfo:AddLabel(LabelName)
+					local SectionTitle = Instance.new("TextLabel")
+					local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+
+					SectionTitle.Name = "SectionTitle"
+					SectionTitle.Parent = SectionFrame
+					SectionTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					SectionTitle.BackgroundTransparency = 1.000
+					SectionTitle.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					SectionTitle.BorderSizePixel = 0
+					SectionTitle.Size = UDim2.new(0.92, 0, 0.5, 0)
+					SectionTitle.ZIndex = 4
+					SectionTitle.Font = Enum.Font.GothamBold
+					SectionTitle.Text = LabelName or "SECTRION"
+					SectionTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+					SectionTitle.TextScaled = true
+					SectionTitle.TextSize = 14.000
+					SectionTitle.TextWrapped = true
+					SectionTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+					UIAspectRatioConstraint.Parent = SectionTitle
+					UIAspectRatioConstraint.AspectRatio = 23.000
+					UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+					SectionInfo:Update()
+
+					local Config = {}
+
+					function Config:Text(...)
+						SectionTitle.Text = tostring(...)
+					end
+
+					function Config:Delete()
+						SectionTitle:Destroy()
+						UpdateSiz()
+					end
+
+					return Config
+				end
+
+				function SectionInfo:AddToggle(ToggleName:string,ToggleDefault:boolean,Callback)
+					local Toggle = Instance.new("Frame")
+					local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+					local MainFrame = Instance.new("Frame")
+					local UICorner = Instance.new("UICorner")
+					local Text = Instance.new("TextLabel")
+					local System = Instance.new("Frame")
+					local UICorner_2 = Instance.new("UICorner")
+					local TurnOn = Instance.new("ImageLabel")
+					local Box = Instance.new("Frame")
+					local UIGradient = Instance.new("UIGradient")
+					local UICorner_3 = Instance.new("UICorner")
+
+					--Properties:
+
+					Toggle.Name = "Toggle"
+					Toggle.Parent = SectionFrame
+					Toggle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					Toggle.BackgroundTransparency = 1.000
+					Toggle.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					Toggle.BorderSizePixel = 0
+					Toggle.Size = UDim2.new(0.980000019, 0, 0.5, 0)
+					Toggle.ZIndex = 5
+
+					UIAspectRatioConstraint.Parent = Toggle
+					UIAspectRatioConstraint.AspectRatio = 11.500
+					UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+					MainFrame.Name = "MainFrame"
+					MainFrame.Parent = Toggle
+					MainFrame.AnchorPoint = Vector2.new(0.5, 0)
+					MainFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					MainFrame.BackgroundTransparency = 1.000
+					MainFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					MainFrame.BorderSizePixel = 0
+					MainFrame.Position = UDim2.new(0.5, 0, 0, 0)
+					MainFrame.Size = UDim2.new(0.949999988, 0, 1, 0)
+					MainFrame.ZIndex = 6
+
+					UICorner.CornerRadius = UDim.new(0, 3)
+					UICorner.Parent = MainFrame
+
+					Text.Name = "Text"
+					Text.Parent = MainFrame
+					Text.AnchorPoint = Vector2.new(0.5, 0.5)
+					Text.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					Text.BackgroundTransparency = 1.000
+					Text.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					Text.BorderSizePixel = 0
+					Text.Position = UDim2.new(0.681999981, 0, 0.5, 0)
+					Text.Size = UDim2.new(1.12300003, 0, 0.524999976, 0)
+					Text.ZIndex = 6
+					Text.Font = Enum.Font.GothamBold
+					Text.Text = ToggleName or "Auto Fuck"
+					Text.TextColor3 = Color3.fromRGB(255, 255, 255)
+					Text.TextScaled = true
+					Text.TextSize = 14.000
+					Text.TextWrapped = true
+					Text.TextXAlignment = Enum.TextXAlignment.Left
+
+					System.Name = "System"
+					System.Parent = MainFrame
+					System.AnchorPoint = Vector2.new(0.5, 0.5)
+					System.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+					System.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					System.BorderSizePixel = 0
+					System.Position = UDim2.new(0.0419999994, 0, 0.5, 0)
+					System.Size = UDim2.new(0.824999988, 0, 0.824999988, 0)
+					System.SizeConstraint = Enum.SizeConstraint.RelativeYY
+					System.ZIndex = 6
+
+					UICorner_2.CornerRadius = UDim.new(0, 3)
+					UICorner_2.Parent = System
+
+					TurnOn.Name = "TurnOn"
+					TurnOn.Parent = System
+					TurnOn.AnchorPoint = Vector2.new(0.5, 0.5)
+					TurnOn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					TurnOn.BackgroundTransparency = 1.000
+					TurnOn.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					TurnOn.BorderSizePixel = 0
+					TurnOn.Position = UDim2.new(0.5, 0, 0.5, 0)
+					TurnOn.Size = UDim2.new(0.800000012, 0, 0.800000012, 0)
+					TurnOn.ZIndex = 7
+					TurnOn.Image = "rbxassetid://3944680095"
+					TurnOn.ImageColor3 = Color3.fromRGB(0, 0, 0)
+					TurnOn.ImageTransparency = 1.000
+
+					Box.Name = "Box"
+					Box.Parent = System
+					Box.AnchorPoint = Vector2.new(0.5, 0.5)
+					Box.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					Box.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					Box.BorderSizePixel = 0
+					Box.Position = UDim2.new(0.5, 0, 0.5, 0)
+					Box.ZIndex = 6
+
+					UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Alc.Config.MainColor), ColorSequenceKeypoint.new(1.00, Alc.Config.DropColor)}
+					UIGradient.Rotation = 45
+					UIGradient.Parent = Box
+
+					UICorner_3.CornerRadius = UDim.new(0, 4)
+					UICorner_3.Parent = Box
+
+					local function Onv(val)
+						if val then
+							TweenService:Create(TurnOn,TweenInfo.new(0.4),{
+								ImageTransparency = 0
+							}):Play()
+
+							TweenService:Create(Box,TweenInfo.new(0.3),{
+								Size = UDim2.fromScale(1,1)
+							}):Play()
+
+							TweenService:Create(TurnOn,TweenInfo.new(0.55),{
+								ImageColor3 = Alc.Config.MainColor
+							}):Play()
+						else
+							TweenService:Create(TurnOn,TweenInfo.new(0.4),{
+								ImageTransparency = 1
+							}):Play()
+
+							TweenService:Create(Box,TweenInfo.new(0.3),{
+								Size = UDim2.fromScale(0,0)
+							}):Play()
+
+							TweenService:Create(TurnOn,TweenInfo.new(0.555),{
+								ImageColor3 = Color3.fromRGB(0, 0, 0)
+							}):Play()
+						end
+					end
+
+					Onv(ToggleDefault)
+
+					cretate_button(MainFrame).MouseButton1Click:Connect(function()
+						ToggleDefault = not ToggleDefault
+						Onv(ToggleDefault)
+						if Callback then
+							Callback(ToggleDefault)
+						end
+					end)
+
+					SectionInfo:Update()
+
+					local Config = {}
+
+					function Config:Text(...)
+						Text.Text = tostring(...)
+					end
+
+					function Config:Value(V)
+						ToggleDefault =V
+						Onv(V)
+						if Callback then
+							Callback(ToggleDefault)
+						end
+					end
+
+					function Config:Delete()
+						Toggle:Destroy()
+						UpdateSiz()
+					end
+
+					return Config
+				end
+
+				function SectionInfo:AddButton(ButtonName:string,callback)
+					callback = callback or function()
+
+					end
+
+					local Button = Instance.new("Frame")
+					local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+					local ButtonMainFrame = Instance.new("Frame")
+					local UICorner = Instance.new("UICorner")
+					local UIGradient = Instance.new("UIGradient")
+					local Text = Instance.new("TextLabel")
+
+					Button.Name = "Button"
+					Button.Parent = SectionFrame
+					Button.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					Button.BackgroundTransparency = 1.000
+					Button.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					Button.BorderSizePixel = 0
+					Button.Size = UDim2.new(0.980000019, 0, 0.5, 0)
+					Button.ZIndex = 5
+
+					UIAspectRatioConstraint.Parent = Button
+					UIAspectRatioConstraint.AspectRatio = 11.500
+					UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+					ButtonMainFrame.Name = "ButtonMainFrame"
+					ButtonMainFrame.Parent = Button
+					ButtonMainFrame.AnchorPoint = Vector2.new(0.5, 0)
+					ButtonMainFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					ButtonMainFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					ButtonMainFrame.BorderSizePixel = 0
+					ButtonMainFrame.Position = UDim2.new(0.5, 0, 0, 0)
+					ButtonMainFrame.Size = UDim2.new(0.949999988, 0, 1, 0)
+					ButtonMainFrame.ZIndex = 6
+
+					UICorner.CornerRadius = UDim.new(0, 3)
+					UICorner.Parent = ButtonMainFrame
+
+					UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Alc.Config.MainColor), ColorSequenceKeypoint.new(1.00, Alc.Config.DropColor)}
+					UIGradient.Rotation = 90
+					UIGradient.Parent = ButtonMainFrame
+
+					Text.Name = "Text"
+					Text.Parent = ButtonMainFrame
+					Text.AnchorPoint = Vector2.new(0.5, 0.5)
+					Text.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					Text.BackgroundTransparency = 1.000
+					Text.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					Text.BorderSizePixel = 0
+					Text.Position = UDim2.new(0.5, 0, 0.5, 0)
+					Text.Size = UDim2.new(1, 0, 0.600000024, 0)
+					Text.ZIndex = 6
+					Text.Font = Enum.Font.GothamBold
+					Text.Text = ButtonName or "Sea Event"
+					Text.TextColor3 = Color3.fromRGB(255, 255, 255)
+					Text.TextScaled = true
+					Text.TextSize = 14.000
+					Text.TextWrapped = true
+
+					local c = cretate_button(ButtonMainFrame)
+
+					c.MouseButton1Down:Connect(function()
+						TweenService:Create(UIGradient,TweenInfo.new(0.1),{Offset = Vector2.new(0,1)}):Play()
+					end)
+
+					c.MouseButton1Up:Connect(function()
+						TweenService:Create(UIGradient,TweenInfo.new(0.1),{Offset = Vector2.new(0,0)}):Play()
+					end)
+
+					c.MouseButton1Click:Connect(callback)
+
+					local Config = {}
+
+					function Config:Text(...)
+						Text.Text = tostring(...)
+					end
+
+					function Config:Fire(...)
+						callback(...)
+					end
+
+					function Config:Delete()
+						Button:Destroy()
+						UpdateSiz()
+					end
+
+					return Config
+				end
+
+				function SectionInfo:AddSlider(SliderName:string,SliderConfig:SliderConfig,Callback)
+					SliderConfig = SliderConfig or {}
+					SliderConfig.Max = SliderConfig.Max or math.random(100,200)
+					SliderConfig.Min = SliderConfig.Min or 0
+					SliderConfig.Default = SliderConfig.Default or math.random(1,SliderConfig.Max)
+					SliderConfig.VALUE = SliderConfig.VALUE or ''
+
+					Callback = Callback or function() end
+					local Slider = Instance.new("Frame")
+					local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+					local MainFrame = Instance.new("Frame")
+					local Text = Instance.new("TextLabel")
+					local System = Instance.new("Frame")
+					local UICorner = Instance.new("UICorner")
+					local Slide = Instance.new("Frame")
+					local UICorner_2 = Instance.new("UICorner")
+					local Control = Instance.new("Frame")
+					local UICorner_3 = Instance.new("UICorner")
+					local ValueText = Instance.new("TextLabel")
+
+					--Properties:
+
+					Slider.Name = "Slider"
+					Slider.Parent = SectionFrame
+					Slider.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					Slider.BackgroundTransparency = 1.000
+					Slider.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					Slider.BorderSizePixel = 0
+					Slider.Size = UDim2.new(0.980000019, 0, 0.5, 0)
+					Slider.ZIndex = 5
+
+					UIAspectRatioConstraint.Parent = Slider
+					UIAspectRatioConstraint.AspectRatio = 12.000
+					UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+					MainFrame.Name = "MainFrame"
+					MainFrame.Parent = Slider
+					MainFrame.AnchorPoint = Vector2.new(0.5, 0)
+					MainFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					MainFrame.BackgroundTransparency = 1.000
+					MainFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					MainFrame.BorderSizePixel = 0
+					MainFrame.Position = UDim2.new(0.5, 0, 0, 0)
+					MainFrame.Size = UDim2.new(0.949999988, 0, 1, 0)
+					MainFrame.ZIndex = 6
+
+					Text.Name = "Text"
+					Text.Parent = MainFrame
+					Text.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					Text.BackgroundTransparency = 1.000
+					Text.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					Text.BorderSizePixel = 0
+					Text.Position = UDim2.new(0.00999999978, 0, 0, 0)
+					Text.Size = UDim2.new(0.959999979, 0, 0.5, 0)
+					Text.ZIndex = 6
+					Text.Font = Enum.Font.GothamBold
+					Text.Text = SliderName or "Slider"
+					Text.TextColor3 = Color3.fromRGB(255, 255, 255)
+					Text.TextScaled = true
+					Text.TextSize = 14.000
+					Text.TextWrapped = true
+					Text.TextXAlignment = Enum.TextXAlignment.Left
+
+					System.Name = "System"
+					System.Parent = MainFrame
+					System.AnchorPoint = Vector2.new(0.5, 0.5)
+					System.BackgroundColor3 = Color3.fromRGB(76, 81, 82)
+					System.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					System.BorderSizePixel = 0
+					System.Position = UDim2.new(0.5, 0, 0.699999988, 0)
+					System.Size = UDim2.new(0.970000029, 0, 0.194999993, 0)
+					System.ZIndex = 6
+
+					UICorner.CornerRadius = UDim.new(1, 0)
+					UICorner.Parent = System
+
+					Slide.Name = "Slide"
+					Slide.Parent = System
+					Slide.BackgroundColor3 = Alc.Config.MainColor
+					Slide.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					Slide.BorderSizePixel = 0
+					Slide.Size = UDim2.new(0.100000001, 0, 1, 0)
+					Slide.ZIndex = 8
+
+					UICorner_2.CornerRadius = UDim.new(1, 0)
+					UICorner_2.Parent = Slide
+
+					Control.Name = "Control"
+					Control.Parent = Slide
+					Control.AnchorPoint = Vector2.new(0.5, 0.5)
+					Control.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					Control.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					Control.BorderSizePixel = 0
+					Control.Position = UDim2.new(1, 0, 0.5, 0)
+					Control.Size = UDim2.new(1.64999998, 0, 2.6500001, 0)
+					Control.SizeConstraint = Enum.SizeConstraint.RelativeYY
+					Control.ZIndex = 8
+
+					UICorner_3.CornerRadius = UDim.new(0.5, 0)
+					UICorner_3.Parent = Control
+
+					ValueText.Name = "ValueText"
+					ValueText.Parent = MainFrame
+					ValueText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					ValueText.BackgroundTransparency = 1.000
+					ValueText.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					ValueText.BorderSizePixel = 0
+					ValueText.Position = UDim2.new(0.6910429, 0, 0, 0)
+					ValueText.Size = UDim2.new(0.27895698, 0, 0, 0)
+					ValueText.ZIndex = 6
+					ValueText.Font = Enum.Font.GothamBold
+					ValueText.Text = tostring(SliderConfig.Default)..tostring(SliderConfig.VALUE)
+					ValueText.TextColor3 = Color3.fromRGB(255, 255, 255)
+					ValueText.TextScaled = true
+					ValueText.TextSize = 14.000
+					ValueText.TextWrapped = true
+					ValueText.TextXAlignment = Enum.TextXAlignment.Right
+					ValueText.TextTransparency = 1
+
+					TweenService:Create(Slide,TweenInfo.new(0.1),{Size = UDim2.fromScale((SliderConfig.Default / SliderConfig.Max),1)}):Play()
+
+					local MouseDown = false
+
+					local function update(Input)
+						local SizeScale = math.clamp((((Input.Position.X) - System.AbsolutePosition.X) / System.AbsoluteSize.X), 0, 1)
+						local Valuea = math.floor(((SliderConfig.Max - SliderConfig.Min) * SizeScale) + SliderConfig.Min)
+						local Size = UDim2.fromScale(SizeScale, 1)
+						ValueText.Text = tostring(Valuea)..tostring(SliderConfig.VALUE)
+						TweenService:Create(Slide,TweenInfo.new(0.1),{Size = Size}):Play()
+
+						Callback(Valuea)
+					end
+
+					MainFrame.InputBegan:Connect(function(Input)
+						if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+							MouseDown = true
+
+							TweenService:Create(ValueText,TweenInfo.new(0.1),{
+								Size = UDim2.new(0.27895698, 0, 0.5, 0),
+								TextTransparency = 0.1,
+							}):Play()
+
+							update(Input)
+
+						end
+					end)
+
+					MainFrame.InputEnded:Connect(function(Input)
+						if Input.UserInputType == Enum.UserInputType.MouseButton1 or Input.UserInputType == Enum.UserInputType.Touch then
+							MouseDown = false
+
+							TweenService:Create(ValueText,TweenInfo.new(0.3),{
+								Size = UDim2.new(0.27895698, 0, 0, 0),
+								TextTransparency = 1,
+							}):Play()
+						end
+					end)
+
+					UserInputService.InputChanged:Connect(function(Input)
+						if MouseDown then
+							if (Input.UserInputType==Enum.UserInputType.MouseMovement or Input.UserInputType==Enum.UserInputType.Touch)  then
+								update(Input)
+							end
+						end
+					end)
+
+					local Config = {}
+
+					function Config:Text(...)
+						Text.Text = tostring(...)
+					end
+
+					function Config:Value(new)
+						ValueText.Text = tostring(new)..tostring(SliderConfig.VALUE)
+
+						Callback(new)
+					end
+
+					function Config:Fire(...)
+						Callback(...)
+					end
+
+					function Config:Delete()
+						Button:Destroy()
+						UpdateSiz()
+					end
+
+					return Config
+				end
+
+				function SectionInfo:AddDropdown(DropdownName:string,DropdownInfo:{any},Default:any,DropdownMax:number,callback)
+					local Dropdown = Instance.new("Frame")
+					local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+					local Text = Instance.new("TextLabel")
+					local UIAspectRatioConstraint_2 = Instance.new("UIAspectRatioConstraint")
+					local UIListLayout = Instance.new("UIListLayout")
+					local DropFrame = Instance.new("Frame")
+					local UIStroke = Instance.new("UIStroke")
+					local UIGradient = Instance.new("UIGradient")
+					local UICorner = Instance.new("UICorner")
+					local Header = Instance.new("Frame")
+					local UIAspectRatioConstraint_3 = Instance.new("UIAspectRatioConstraint")
+					local Icon = Instance.new("ImageLabel")
+					local SelectText = Instance.new("TextLabel")
+					local UIGradient_2 = Instance.new("UIGradient")
+					local UIListLayout_2 = Instance.new("UIListLayout")
+					local ScrollingFrame = Instance.new("ScrollingFrame")
+					local UIAspectRatioConstraint_4 = Instance.new("UIAspectRatioConstraint")
+					local UIListLayout_3 = Instance.new("UIListLayout")
+					callback = callback or function()
+
+					end
+
+					scrolling_connectY(ScrollingFrame)
+					
+					local function join(target)
+						if typeof(target) ~= 'table' then
+							return tostring(Default or 'None')
+						end
+
+						local l = ''
+
+						for i,v in ipairs(target) do
+							l = l..' '..tostring(v)..' ,'
+						end
+
+						l = l:sub(0,#l - 1)
+
+						return l
+					end
+
+					Dropdown.Name = "Dropdown"
+					Dropdown.Parent = SectionFrame
+					Dropdown.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					Dropdown.BackgroundTransparency = 1.000
+					Dropdown.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					Dropdown.BorderSizePixel = 0
+					Dropdown.Size = UDim2.new(0.980000019, 0, 0.5, 0)
+					Dropdown.ZIndex = 5
+
+					UIAspectRatioConstraint.Parent = Dropdown
+					UIAspectRatioConstraint.AspectRatio = 6.500
+					UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+					Text.Name = "Text"
+					Text.Parent = Dropdown
+					Text.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					Text.BackgroundTransparency = 1.000
+					Text.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					Text.BorderSizePixel = 0
+					Text.Size = UDim2.new(0.959999979, 0, 0.5, 0)
+					Text.ZIndex = 6
+					Text.Font = Enum.Font.GothamBold
+					Text.Text = DropdownName or "Select Gays"
+					Text.TextColor3 = Color3.fromRGB(255, 255, 255)
+					Text.TextScaled = true
+					Text.TextSize = 14.000
+					Text.TextWrapped = true
+					Text.TextXAlignment = Enum.TextXAlignment.Left
+
+					UIAspectRatioConstraint_2.Parent = Text
+					UIAspectRatioConstraint_2.AspectRatio = 22.000
+					UIAspectRatioConstraint_2.AspectType = Enum.AspectType.ScaleWithParentSize
+
+					UIListLayout.Parent = Dropdown
+					UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+					UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+					UIListLayout.Padding = UDim.new(0, 3)
+
+					DropFrame.Name = "DropFrame"
+					DropFrame.Parent = Dropdown
+					DropFrame.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+					DropFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					DropFrame.BorderSizePixel = 0
+					DropFrame.ClipsDescendants = true
+					DropFrame.Position = UDim2.new(0.0200000405, 0, 0.373297691, 0)
+					DropFrame.Size = UDim2.new(0.959999979, 0, 0.550000012, 0)
+					DropFrame.ZIndex = 6
+
+					UIStroke.Color = Color3.fromRGB(37, 37, 37)
+					UIStroke.Parent = DropFrame
+
+					UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.68), NumberSequenceKeypoint.new(0.20, 0.00), NumberSequenceKeypoint.new(0.80, 0.00), NumberSequenceKeypoint.new(1.00, 0.67)}
+					UIGradient.Parent = UIStroke
+
+					UICorner.CornerRadius = UDim.new(0, 2)
+					UICorner.Parent = DropFrame
+
+					Header.Name = "Header"
+					Header.Parent = DropFrame
+					Header.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					Header.BackgroundTransparency = 1.000
+					Header.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					Header.BorderSizePixel = 0
+					Header.Size = UDim2.new(0.925000012, 0, 1, 0)
+					Header.ZIndex = 7
+
+					UIAspectRatioConstraint_3.Parent = Header
+					UIAspectRatioConstraint_3.AspectRatio = 12.000
+					UIAspectRatioConstraint_3.AspectType = Enum.AspectType.ScaleWithParentSize
+
+					Icon.Name = "Icon"
+					Icon.Parent = Header
+					Icon.AnchorPoint = Vector2.new(0.5, 0.5)
+					Icon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					Icon.BackgroundTransparency = 1.000
+					Icon.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					Icon.BorderSizePixel = 0
+					Icon.Position = UDim2.new(0.939999998, 0, 0.5, 0)
+					Icon.Size = UDim2.new(0.899999976, 0, 0.899999976, 0)
+					Icon.SizeConstraint = Enum.SizeConstraint.RelativeYY
+					Icon.ZIndex = 7
+					Icon.Image = "rbxassetid://7733717447"
+
+					SelectText.Name = "SelectText"
+					SelectText.Parent = Header
+					SelectText.AnchorPoint = Vector2.new(0.5, 0.5)
+					SelectText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					SelectText.BackgroundTransparency = 1.000
+					SelectText.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					SelectText.BorderSizePixel = 0
+					SelectText.Position = UDim2.new(0.437301666, 0, 0.499999493, 0)
+					SelectText.Size = UDim2.new(0.864019156, 0, 0.550000012, 0)
+					SelectText.ZIndex = 8
+					SelectText.Font = Enum.Font.GothamBold
+					SelectText.Text = join(Default or 'None')
+					SelectText.TextColor3 = Color3.fromRGB(255, 255, 255)
+					SelectText.TextScaled = true
+					SelectText.TextSize = 14.000
+					SelectText.TextTransparency = 0.500
+					SelectText.TextWrapped = true
+					SelectText.TextXAlignment = Enum.TextXAlignment.Left
+
+					UIGradient_2.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(0.90, 0.00), NumberSequenceKeypoint.new(1.00, 1.00)}
+					UIGradient_2.Parent = SelectText
+
+					UIListLayout_2.Parent = DropFrame
+					UIListLayout_2.HorizontalAlignment = Enum.HorizontalAlignment.Center
+					UIListLayout_2.SortOrder = Enum.SortOrder.LayoutOrder
+					UIListLayout_2.Padding = UDim.new(0, 3)
+
+					ScrollingFrame.Parent = DropFrame
+					ScrollingFrame.Active = true
+					ScrollingFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					ScrollingFrame.BackgroundTransparency = 1.000
+					ScrollingFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+					ScrollingFrame.BorderSizePixel = 0
+					ScrollingFrame.Size = UDim2.new(1, 0, 5.6500001, 0)
+					ScrollingFrame.ZIndex = 6
+					ScrollingFrame.ScrollBarThickness = 0
+
+					UIAspectRatioConstraint_4.Parent = ScrollingFrame
+					UIAspectRatioConstraint_4.AspectRatio = 1.950
+					UIAspectRatioConstraint_4.AspectType = Enum.AspectType.ScaleWithParentSize
+
+					UIListLayout_3.Parent = ScrollingFrame
+					UIListLayout_3.HorizontalAlignment = Enum.HorizontalAlignment.Center
+					UIListLayout_3.SortOrder = Enum.SortOrder.LayoutOrder
+					UIListLayout_3.Padding = UDim.new(0, 3)
+
+					UIAspectRatioConstraint:GetPropertyChangedSignal("AspectRatio"):Connect(UpdateSiz)
+
+					DropFrame:GetPropertyChangedSignal('Size'):Connect(function()
+						if DropFrame.Size.Y.Scale >= 0.85 then
+							ScrollingFrame.Visible = true
+						else
+							ScrollingFrame.Visible = false
+						end
+					end)
+
+					local function toggleui(val)
+						if val then
+							TweenService:Create(UIAspectRatioConstraint,TweenInfo.new(0.3),{AspectRatio = 1.5}):Play()
+							TweenService:Create(DropFrame,TweenInfo.new(0.3),{Size = UDim2.fromScale(0.96,0.9)}):Play()
+							TweenService:Create(Icon,TweenInfo.new(0.3),{ImageColor3 = Alc.Config.MainColor,Size = UDim2.new(0.959999976, 0, 0.959999976, 0)}):Play()
+
+						else
+							TweenService:Create(UIAspectRatioConstraint,TweenInfo.new(0.3),{AspectRatio = 6.5}):Play()
+							TweenService:Create(DropFrame,TweenInfo.new(0.3),{Size = UDim2.fromScale(0.96,0.55)}):Play()
+							TweenService:Create(Icon,TweenInfo.new(0.3),{ImageColor3 = Color3.fromRGB(255, 255, 255),Size = UDim2.new(0.899999976, 0, 0.899999976, 0)}):Play()
+
+						end
+					end
+
+					toggleui(false)
+
+					local connectlist = {}
+					local valnow = false
+
+					if typeof(connectlist) ~= 'table' then
+						connectlist = {connectlist}
+					end
+
+					local function getbutton(txt)
+						local DropdownObject = Instance.new("Frame")
+						local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
+						local MainFrame = Instance.new("Frame")
+						local UICorner = Instance.new("UICorner")
+						local Text = Instance.new("TextLabel")
+						local System = Instance.new("Frame")
+						local UICorner_2 = Instance.new("UICorner")
+						local TurnOn = Instance.new("ImageLabel")
+						local Box = Instance.new("Frame")
+						local UIGradient = Instance.new("UIGradient")
+						local UICorner_3 = Instance.new("UICorner")
+
+						DropdownObject.Name = "DropdownObject"
+
+						DropdownObject.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+						DropdownObject.BackgroundTransparency = 1.000
+						DropdownObject.BorderColor3 = Color3.fromRGB(0, 0, 0)
+						DropdownObject.BorderSizePixel = 0
+						DropdownObject.Size = UDim2.new(0.980000019, 0, 0.5, 0)
+						DropdownObject.ZIndex = 5
+
+						UIAspectRatioConstraint.Parent = DropdownObject
+						UIAspectRatioConstraint.AspectRatio = 11.500
+						UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+						MainFrame.Name = "MainFrame"
+						MainFrame.Parent = DropdownObject
+						MainFrame.AnchorPoint = Vector2.new(0.5, 0)
+						MainFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+						MainFrame.BackgroundTransparency = 1.000
+						MainFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+						MainFrame.BorderSizePixel = 0
+						MainFrame.Position = UDim2.new(0.409999996, 0, 0, 0)
+						MainFrame.Size = UDim2.new(0.800000012, 0, 1, 0)
+						MainFrame.ZIndex = 6
+
+						UICorner.CornerRadius = UDim.new(0, 3)
+						UICorner.Parent = MainFrame
+
+						Text.Name = "Text"
+						Text.Parent = MainFrame
+						Text.AnchorPoint = Vector2.new(0.5, 0.5)
+						Text.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+						Text.BackgroundTransparency = 1.000
+						Text.BorderColor3 = Color3.fromRGB(0, 0, 0)
+						Text.BorderSizePixel = 0
+						Text.Position = UDim2.new(0.75, 0, 0.5, 0)
+						Text.Size = UDim2.new(1.12300003, 0, 0.524999976, 0)
+						Text.ZIndex = 6
+						Text.Font = Enum.Font.GothamBold
+						Text.Text = tostring(txt)
+						Text.TextColor3 = Color3.fromRGB(255, 255, 255)
+						Text.TextScaled = true
+						Text.TextSize = 14.000
+						Text.TextWrapped = true
+						Text.TextXAlignment = Enum.TextXAlignment.Left
+
+						System.Name = "System"
+						System.Parent = MainFrame
+						System.AnchorPoint = Vector2.new(0.5, 0.5)
+						System.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+						System.BorderColor3 = Color3.fromRGB(0, 0, 0)
+						System.BorderSizePixel = 0
+						System.Position = UDim2.new(0.109999999, 0, 0.5, 0)
+						System.Size = UDim2.new(0.824999988, 0, 0.824999988, 0)
+						System.SizeConstraint = Enum.SizeConstraint.RelativeYY
+						System.ZIndex = 6
+
+						UICorner_2.CornerRadius = UDim.new(0, 3)
+						UICorner_2.Parent = System
+
+						TurnOn.Name = "TurnOn"
+						TurnOn.Parent = System
+						TurnOn.AnchorPoint = Vector2.new(0.5, 0.5)
+						TurnOn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+						TurnOn.BackgroundTransparency = 1.000
+						TurnOn.BorderColor3 = Color3.fromRGB(0, 0, 0)
+						TurnOn.BorderSizePixel = 0
+						TurnOn.Position = UDim2.new(0.5, 0, 0.5, 0)
+						TurnOn.Size = UDim2.new(0.800000012, 0, 0.800000012, 0)
+						TurnOn.ZIndex = 7
+						TurnOn.Image = "rbxassetid://3944680095"
+						TurnOn.ImageColor3 = Color3.fromRGB(0, 0, 0)
+						TurnOn.ImageTransparency = 1.000
+
+						Box.Name = "Box"
+						Box.Parent = System
+						Box.AnchorPoint = Vector2.new(0.5, 0.5)
+						Box.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+						Box.BorderColor3 = Color3.fromRGB(0, 0, 0)
+						Box.BorderSizePixel = 0
+						Box.Position = UDim2.new(0.5, 0, 0.5, 0)
+						Box.ZIndex = 6
+
+						UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Alc.Config.MainColor), ColorSequenceKeypoint.new(1.00, Alc.Config.DropColor)}
+						UIGradient.Rotation = 45
+						UIGradient.Parent = Box
+
+						UICorner_3.CornerRadius = UDim.new(0, 4)
+						UICorner_3.Parent = Box
+
+						local function toggleeffect(val)
+							if val then
+								TweenService:Create(TurnOn,TweenInfo.new(0.4),{
+									ImageTransparency = 0
+								}):Play()
+
+								TweenService:Create(Box,TweenInfo.new(0.3),{
+									Size = UDim2.fromScale(1,1)
+								}):Play()
+
+								TweenService:Create(TurnOn,TweenInfo.new(0.55),{
+									ImageColor3 = Alc.Config.MainColor
+								}):Play()
+							else
+								TweenService:Create(TurnOn,TweenInfo.new(0.4),{
+									ImageTransparency = 1
+								}):Play()
+
+								TweenService:Create(Box,TweenInfo.new(0.3),{
+									Size = UDim2.fromScale(0,0)
+								}):Play()
+
+								TweenService:Create(TurnOn,TweenInfo.new(0.555),{
+									ImageColor3 = Color3.fromRGB(0, 0, 0)
+								}):Play()
+							end
+						end
+
+						return DropdownObject,toggleeffect
+					end
+
+					local function Reset()
+						for i,v in ipairs(ScrollingFrame:GetChildren()) do
+							if v:IsA('Frame') then
+								v:Destroy()
+							end
+						end
+
+						ScrollingFrame:SetAttribute('Key',tostring(math.random(1,1000)))
+
+						for i,v in pairs(DropdownInfo) do
+							local DropdownObject,toggleeffect = getbutton(tostring(v))
+							local mytoggle = false
+							local ind = 0
+							DropdownObject.Parent = ScrollingFrame
+
+							if i == Default or v == Default then
+								toggleeffect(true)
+								mytoggle = true
+								table.insert(connectlist,v)
+							else
+								toggleeffect(false)
+							end
+
+
+							cretate_button(DropdownObject).MouseButton1Click:Connect(function()
+								mytoggle = not mytoggle
+
+								if mytoggle then
+									if (#connectlist + 1) > DropdownMax then
+										mytoggle = not mytoggle
+										return
+									end
+
+									if not table.find(connectlist,v) then
+										table.insert(connectlist,v)
+										ind = #connectlist
+									end
+
+
+								else
+									for i,c in ipairs(connectlist) do
+										if c == v then
+											table.remove(connectlist,i)
+										end
+									end
+
+
+								end
+
+
+								toggleeffect(mytoggle)
+
+								SelectText.Text = join(connectlist)
+								callback(connectlist,v)
+							end)
+						end
+					end
+
+					Reset()
+
+					cretate_button(Header).MouseButton1Click:Connect(function()
+						valnow = not valnow
+						toggleui(valnow)
+					end)
+
+					local Config = {}
+
+					function Config:Text(...)
+						Text.Text = tostring(...)
+					end
+
+					function Config:Refresh(new)
+
+						DropdownInfo = new
+
+						Reset()
+					end
+
+					function Config:Fire(...)
+						callback(...)
+					end
+
+					function Config:Delete()
+						Button:Destroy()
+						UpdateSiz()
+					end
+
+					return Config
+				end
+
+				return SectionInfo
+			end
+
+
+			return MainTab
+		end
+
+		return MenuAlc
+	end
+
+	local UIStroke = Instance.new("UIStroke")
+
+	UIStroke.Color = Color3.fromRGB(37, 37, 37)
+	UIStroke.Parent = CloseUI
+
+	local dragToggle = nil
+	local dragSpeed = 0.1
+	local dragStart = nil
+	local startPos = nil
+	local valUI = true
+
+	Frame:GetPropertyChangedSignal('Size'):Connect(function()
+		if Frame.Size.X.Scale <= 0 then
+			Frame.Visible = false
+		else
+			Frame.Visible = true
+		end
+	end)
+
+	CloseUI:GetPropertyChangedSignal('Size'):Connect(function()
+		if CloseUI.Size.X.Scale <= 0 then
+			CloseUI.Visible = false
+		else
+			CloseUI.Visible = true
+		end
+	end)
+
+	local function ToggleUI(val)
+		if val then
+			TweenService:Create(Frame,TweenInfo.new(0.5),{Size = Alc.Config["UI Size"]}):Play()
+			TweenService:Create(CloseUI,TweenInfo.new(1,Enum.EasingStyle.Quint,Enum.EasingDirection.In),{Size = UDim2.fromScale(0,0)}):Play()
+		else
+			TweenService:Create(Frame,TweenInfo.new(1,Enum.EasingStyle.Quint,Enum.EasingDirection.In),{Size = UDim2.fromScale(0,0)}):Play()
+			TweenService:Create(CloseUI,TweenInfo.new(0.5),{Size = UDim2.fromScale(1,1)}):Play()
+		end
+	end
+	
+	if UserInputService.TouchEnabled then
+		task.spawn(function()
+			local Toggle = Instance.new("ScreenGui")
+			local Frames = Instance.new("Frame")
+			local UICorner = Instance.new("UICorner")
+			local UIStroke = Instance.new("UIStroke")
+			local logo = Instance.new("ImageLabel")
+			local DropShadow = Instance.new("ImageLabel")
+
+			Toggle.Name = "Toggle"
+			Toggle.Parent = Alc.CoreGui or game.Players.LocalPlayer:WaitForChild("PlayerGui")
+			Toggle.ZIndexBehavior = Enum.ZIndexBehavior.Global
+			
+			Frames.Name = 'c4'
+			Frames.Parent = Toggle
+			Frames.AnchorPoint = Vector2.new(0.5, 0.5)
+			Frames.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+			Frames.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			Frames.BorderSizePixel = 0
+			Frames.Position = UDim2.new(0.886243403, 0, 0.194968551, 0)
+			Frames.Size = UDim2.new(0.200000003, 0, 0.200000003, 0)
+			Frames.SizeConstraint = Enum.SizeConstraint.RelativeYY
+			Frames.ZIndex = 67
+
+			UICorner.Parent = Frames
+
+			UIStroke.Color = Color3.fromRGB(121, 121, 121)
+			UIStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+			UIStroke.Parent = Frames
+
+			logo.Name = "logo"
+			logo.Parent = Frames
+			logo.AnchorPoint = Vector2.new(0.5, 0.5)
+			logo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			logo.BackgroundTransparency = 1.010
+			logo.BorderColor3 = Color3.fromRGB(0, 0, 0)
+			logo.BorderSizePixel = 0
+			logo.Position = UDim2.new(0.5, 0, 0.5, 0)
+			logo.Size = UDim2.new(0.899999976, 0, 0.899999976, 0)
+			logo.ZIndex = 68
+			logo.Image = WindowLogo
+
+			DropShadow.Name = "DropShadow"
+			DropShadow.Parent = Frames
+			DropShadow.AnchorPoint = Vector2.new(0.5, 0.5)
+			DropShadow.BackgroundTransparency = 1.000
+			DropShadow.BorderSizePixel = 0
+			DropShadow.Position = UDim2.new(0.5, 0, 0.5, 0)
+			DropShadow.Size = UDim2.new(1, 47, 1, 47)
+			DropShadow.ZIndex = 66
+			DropShadow.Image = "rbxassetid://6015897843"
+			DropShadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
+			DropShadow.ImageTransparency = 0.500
+			DropShadow.ScaleType = Enum.ScaleType.Slice
+			DropShadow.SliceCenter = Rect.new(49, 49, 450, 450)
+			
+			local dragToggle = false
+			local dragStart = nil
+			local startPos = nil
+			
+			local old = Frames.Position
+			local function dInput(input)
+				local delta = input.Position - dragStart
+				local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+					startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+				game:GetService('TweenService'):Create(Frames, TweenInfo.new(dragSpeed), {Position = position}):Play()
+			end
+			
+			local but = cretate_button(Frames)
+			but.ZIndex = 68
+			but.MouseButton1Click:Connect(function()
+				if old == Frames.Position then
+					valUI = not valUI
+					ToggleUI(valUI)
+				end
+			end)
+			but.InputBegan:Connect(function(input)
+				if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+					dragToggle = true
+					dragStart = input.Position
+					startPos = Frames.Position
+					old = Frames.Position
+					input.Changed:Connect(function()
+						if input.UserInputState == Enum.UserInputState.End then
+							dragToggle = false
+						end
+					end)
+				end
+			end)
+
+		
+
+			UserInputService.InputChanged:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+					if dragToggle then
+						dInput(input)
+					end
+				end
+			end)
+		end)
+	end
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(Frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+
+	Topbar.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = Frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+
+	UserInputService.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+
+	UserInputService.InputBegan:Connect(function(input,ty)
+		if ty then
+			return
+		end
+
+		if input.KeyCode == WindowAlc.Toggle then
+			valUI = not valUI
+			ToggleUI(valUI)
+		end
+	end)
+
+	return WindowAlc
+end
+
+return Alc
