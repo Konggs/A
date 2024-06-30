@@ -1043,29 +1043,8 @@ function Alc:NewWindow(WindowName:string,WindowDescription:string,WindowLogo:str
 				SectionFrame.ZIndex = 4
 
 				UpdateSiz()
+				
 
-				UICorner.Parent = SectionFrame
-
-				UIStroke.Color = Color3.fromRGB(37, 37, 37)
-				UIStroke.Parent = SectionFrame
-
-				UIListLayout.Parent = SectionFrame
-				UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
-				UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
-				UIListLayout.Padding = UDim.new(0, 5)
-
-				Header.Name = "Header"
-				Header.Parent = SectionFrame
-				Header.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-				Header.BackgroundTransparency = 1.000
-				Header.BorderColor3 = Color3.fromRGB(0, 0, 0)
-				Header.BorderSizePixel = 0
-				Header.Size = UDim2.new(0.949999988, 0, 0.5, 0)
-				Header.ZIndex = 5
-
-				UIAspectRatioConstraint.Parent = Header
-				UIAspectRatioConstraint.AspectRatio = 4.000
-				UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
 				Frame.Parent = Header
 				Frame.AnchorPoint = Vector2.new(0.5, 0.5)
 				Frame.BackgroundColor3 = Color3.fromRGB(28, 28, 28)
