@@ -1043,7 +1043,77 @@ function Alc:NewWindow(WindowName:string,WindowDescription:string,WindowLogo:str
 				SectionFrame.ZIndex = 4
 
 				UpdateSiz()
-				
+
+				UICorner.Parent = SectionFrame
+
+				UIStroke.Color = Color3.fromRGB(37, 37, 37)
+				UIStroke.Parent = SectionFrame
+
+				UIListLayout.Parent = SectionFrame
+				UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+				UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+				UIListLayout.Padding = UDim.new(0, 5)
+
+				Header.Name = "Header"
+				Header.Parent = SectionFrame
+				Header.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				Header.BackgroundTransparency = 1.000
+				Header.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				Header.BorderSizePixel = 0
+				Header.Size = UDim2.new(0.949999988, 0, 0.5, 0)
+				Header.ZIndex = 5
+
+				UIAspectRatioConstraint.Parent = Header
+				UIAspectRatioConstraint.AspectRatio = 4.000
+				UIAspectRatioConstraint.AspectType = Enum.AspectType.ScaleWithParentSize
+
+				SectionIcon.Name = "SectionIcon"
+				SectionIcon.Parent = Header
+				SectionIcon.AnchorPoint = Vector2.new(0.5, 0.699999988)
+				SectionIcon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				SectionIcon.BackgroundTransparency = 1.000
+				SectionIcon.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				SectionIcon.BorderSizePixel = 0
+				SectionIcon.Position = UDim2.new(0.100000001, 0, 0.5, 0)
+				SectionIcon.Size = UDim2.new(0.600000024, 0, 0.600000024, 0)
+				SectionIcon.SizeConstraint = Enum.SizeConstraint.RelativeYY
+				SectionIcon.ZIndex = 6
+				SectionIcon.Image = Alc:GetId(SectionIcons or 'pin')
+
+				SectionHeadTest.Name = "SectionHeadTest"
+				SectionHeadTest.Parent = Header
+				SectionHeadTest.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				SectionHeadTest.BackgroundTransparency = 1.000
+				SectionHeadTest.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				SectionHeadTest.BorderSizePixel = 0
+				SectionHeadTest.Position = UDim2.new(0.218999997, 0, 0.0949999988, 0)
+				SectionHeadTest.Size = UDim2.new(1, 0, 0.194999993, 0)
+				SectionHeadTest.ZIndex = 5
+				SectionHeadTest.Font = Enum.Font.GothamBold
+				SectionHeadTest.Text = SectionHeader or "Yuuki Hub On Top"
+				SectionHeadTest.TextColor3 = Color3.fromRGB(255, 255, 255)
+				SectionHeadTest.TextScaled = true
+				SectionHeadTest.TextSize = 14.000
+				SectionHeadTest.TextWrapped = true
+				SectionHeadTest.TextXAlignment = Enum.TextXAlignment.Left
+
+				SectionDescription.Name = "SectionDescription"
+				SectionDescription.Parent = Header
+				SectionDescription.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				SectionDescription.BackgroundTransparency = 1.000
+				SectionDescription.BorderColor3 = Color3.fromRGB(0, 0, 0)
+				SectionDescription.BorderSizePixel = 0
+				SectionDescription.Position = UDim2.new(0.218999997, 0, 0.354999989, 0)
+				SectionDescription.Size = UDim2.new(1, 0, 0.194999993, 0)
+				SectionDescription.ZIndex = 5
+				SectionDescription.Font = Enum.Font.GothamBold
+				SectionDescription.Text = SectionDescriptions or "Buy YuukiHub Today"
+				SectionDescription.TextColor3 = Color3.fromRGB(255, 255, 255)
+				SectionDescription.TextScaled = true
+				SectionDescription.TextSize = 14.000
+				SectionDescription.TextTransparency = 0.500
+				SectionDescription.TextWrapped = true
+				SectionDescription.TextXAlignment = Enum.TextXAlignment.Left
 
 				Frame.Parent = Header
 				Frame.AnchorPoint = Vector2.new(0.5, 0.5)
