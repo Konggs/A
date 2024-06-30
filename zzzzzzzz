@@ -1107,7 +1107,7 @@ function Alc:NewWindow(WindowName:string,WindowDescription:string,WindowLogo:str
 				SectionDescription.Size = UDim2.new(1, 0, 0.194999993, 0)
 				SectionDescription.ZIndex = 5
 				SectionDescription.Font = Enum.Font.GothamBold
-				SectionDescription.Text = SectionDescriptions or "Buy Yuuki Hub Today"
+				SectionDescription.Text = SectionDescriptions or "Buy Yuuki Hub Today\nhttps://discord.gg/QjhYgmqUkK"
 				SectionDescription.TextColor3 = Color3.fromRGB(255, 255, 255)
 				SectionDescription.TextScaled = true
 				SectionDescription.TextSize = 14.000
