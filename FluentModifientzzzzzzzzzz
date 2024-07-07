@@ -13,7 +13,7 @@ local a, b = {
                 {
                     {50, "ModuleScript", {"Dark"}},
                     {52, "ModuleScript", {"Light"}},
-                    {51, "ModuleScript", {"Darker"}},
+                    {51, "ModuleScript", {"YuukiHubOnTop"}},
                     {53, "ModuleScript", {"Rose"}},
                     {49, "ModuleScript", {"Aqua"}},
                     {48, "ModuleScript", {"Amethyst"}}
@@ -506,7 +506,7 @@ local aa = {
         return {
             Close = "rbxassetid://18371096401",
             Min = "rbxassetid://18371100173",
-            Max = "rbxassetid://18371104381",
+            Max = "rbxassetid://18370794895",
             Restore = "rbxassetid://10530893825"
         }
     end,
