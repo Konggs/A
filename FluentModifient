@@ -5154,7 +5154,7 @@ local aa = {
     [50] = function()
         local aa, ab, ac, ad, ae = b(50)
         return {
-            Name = "SnowBlur",
+            Name = "Snow",
             Accent = Color3.fromRGB(180, 210, 235),
             AcrylicMain = Color3.fromRGB(245, 245, 245),
             AcrylicBorder = Color3.fromRGB(200, 200, 200),
