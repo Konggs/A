@@ -5145,7 +5145,7 @@ local aa = {
     [50] = function()
         local aa, ab, ac, ad, ae = b(50)
         return {
-            Name = "Darker Snowy Blue",
+            Name = "Dark",
             Accent = Color3.fromRGB(120, 150, 170), -- Màu xanh tuyết nhẹ nhàng nhưng tối hơn.
             AcrylicMain = Color3.fromRGB(140, 150, 160), -- Màu xanh tuyết tối hơn cho phần chính.
             AcrylicBorder = Color3.fromRGB(120, 130, 140), -- Màu xanh tuyết tối hơn cho viền.
