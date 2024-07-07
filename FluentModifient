@@ -513,11 +513,11 @@ local aa = {
     [8] = function()
         local c, d, e, f, g = b(8)
         return {
-            Close = "rbxassetid://18274042189",
-            Min = "rbxassetid://18274042189",
-            Max = "rbxassetid://18274042189",
-            Restore = "rbxassetid://18274042189"
-        }
+            Close = "rbxassetid://9886659671",
+            Min = "rbxassetid://9886659276",
+            Max = "rbxassetid://9886659406",
+            Restore = "rbxassetid://9886659001",
+        }        
     end,
     [9] = function()
         local c, d, e, f, g = b(9)
