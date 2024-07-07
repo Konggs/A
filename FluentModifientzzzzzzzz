@@ -120,7 +120,7 @@ local aa = {
             Window = nil,
             WindowFrame = nil,
             Unloaded = false,
-            Theme = "Dark",
+            Theme = "YuukiHubOnTop",
             DialogOpen = false,
             UseAcrylic = false,
             Acrylic = false,
@@ -504,10 +504,10 @@ local aa = {
     [8] = function()
         local c, d, e, f, g = b(8)
         return {
-            Close = "rbxassetid://18370774894",
-            Min = "rbxassetid://18370762681",
-            Max = "rbxassetid://18274042218",
-            Restore = "rbxassetid://18370794944"
+            Close = "rbxassetid://18274042189",
+            Min = "rbxassetid://18370762647",
+            Max = "rbxassetid://18370774820",
+            Restore = "rbxassetid://18370794895"
         }
     end,
     [9] = function()
@@ -5055,7 +5055,7 @@ local aa = {
     end,
     [47] = function()
         local aa, ab, ac, ad, ae = b(47)
-        local af = {Names = {"Dark", "Darker", "Light", "Aqua", "Amethyst", "Rose"}}
+        local af = {Names = {"YuukiHubOnTop"}}
         for ag, ah in next, ab:GetChildren() do
             local aj = ac(ah)
             af[aj.Name] = aj
@@ -5185,7 +5185,7 @@ local aa = {
     [51] = function()
         local aa, ab, ac, ad, ae = b(51)
         return {
-            Name = "Darker",
+            Name = "YuukiHubOnTop",
             Accent = Color3.fromRGB(72, 138, 182),
             AcrylicMain = Color3.fromRGB(30, 30, 30),
             AcrylicBorder = Color3.fromRGB(60, 60, 60),
